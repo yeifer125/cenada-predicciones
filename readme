@@ -1,0 +1,25 @@
+funciones de los script 
+
+1 : sube: Este script solo funciona en una dirección: de tu máquina local hacia GitHub.
+
+👉 Lo que hace es:
+
+Revisa los archivos locales (data/, models/, predictions/).
+
+Compara contra los que están en tu repo de GitHub (mismo path).
+
+Si un archivo local cambió, lo sube o actualiza en GitHub.
+
+Si el archivo no cambió, no hace nada.
+
+Si el archivo existe en GitHub pero no en local, el script NO lo borra ni lo baja.
+
+🔹 En otras palabras:
+
+Sí sube archivos nuevos que creaste en local.
+
+Sí actualiza archivos cambiados en local.
+
+No baja archivos de GitHub a tu PC.
+
+No elimina archivos en GitHub si los borraste en local.
