@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: cenada-predicciones
+    env: python
+    plan: free
+    region: oregon
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run pre.py --server.port $PORT
+    envVars:
+      - key: GITHUB_TOKEN
+        fromDatabase: true
