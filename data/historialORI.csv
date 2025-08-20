@@ -1,0 +1,983 @@
+producto,fecha,promedio,clave,unidad,mayorista,minimo,maximo,moda
+Aguacate Hass de Costa Rica,2025-08-08,1700.0,Aguacate Hass de Costa Rica2025-08-08,Kilo,Kilo,1500.0,1800.0,1800.0
+Aguacate Hass de Costa Rica,2025-08-11,1800.0,Aguacate Hass de Costa Rica2025-08-11,Kilo,Kilo,1800.0,1800.0,1800.0
+Aguacate Hass de Costa Rica,2025-08-13,1600.0,Aguacate Hass de Costa Rica2025-08-13,Kilo,Kilo,1400.0,1800.0,1600.0
+Aguacate Hass de Costa Rica,2025-08-15,1683.33,Aguacate Hass de Costa Rica2025-08-15,Kilo,Kilo,1600.0,1800.0,1600.0
+Aguacate Hass de Costa Rica,2025-08-18,1552.38,Aguacate Hass de Costa Rica2025-08-18,Kilo,Kilo,1300.0,1800.0,1400.0
+Aguacate criollo,2025-08-08,409.09,Aguacate criollo2025-08-08,Unidad,Unidad,300.0,600.0,400.0
+Aguacate criollo,2025-08-14,337.5,Aguacate criollo2025-08-14,Unidad,Unidad,300.0,350.0,350.0
+Aguacate criollo,2025-08-15,466.67,Aguacate criollo2025-08-15,Unidad,Unidad,400.0,500.0,500.0
+Apio verde (mata),2025-08-01,1400.0,Apio verde (mata)2025-08-01,Mata,Mata,1200.0,1500.0,1500.0
+Apio verde (mata),2025-08-04,1316.67,Apio verde (mata)2025-08-04,Mata,Mata,1200.0,1500.0,1200.0
+Apio verde (mata),2025-08-05,1341.67,Apio verde (mata)2025-08-05,Mata,Mata,1200.0,1500.0,1400.0
+Apio verde (mata),2025-08-06,1340.0,Apio verde (mata)2025-08-06,Mata,Mata,1200.0,1500.0,1400.0
+Apio verde (mata),2025-08-07,1414.29,Apio verde (mata)2025-08-07,Mata,Mata,1200.0,1500.0,1500.0
+Apio verde (mata),2025-08-08,1381.82,Apio verde (mata)2025-08-08,Mata,Mata,1200.0,1500.0,1500.0
+Apio verde (mata),2025-08-11,1360.0,Apio verde (mata)2025-08-11,Mata,Mata,1200.0,1500.0,1500.0
+Apio verde (mata),2025-08-12,1370.0,Apio verde (mata)2025-08-12,Mata,Mata,1200.0,1500.0,1500.0
+Apio verde (mata),2025-08-13,1328.57,Apio verde (mata)2025-08-13,Mata,Mata,1200.0,1500.0,1300.0
+Apio verde (mata),2025-08-14,1230.0,Apio verde (mata)2025-08-14,Mata,Mata,1000.0,1400.0,1300.0
+Apio verde (mata),2025-08-15,1330.0,Apio verde (mata)2025-08-15,Mata,Mata,1200.0,1500.0,1300.0
+Apio verde (mata),2025-08-18,1306.67,Apio verde (mata)2025-08-18,Mata,Mata,1200.0,1500.0,1200.0
+Apio verde (mata),2025-08-19,1364.29,Apio verde (mata)2025-08-19,Mata,Mata,1200.0,1500.0,1500.0
+Ayote sazón,2025-08-01,335.71,Ayote sazón2025-08-01,Kilo,Kilo,300.0,350.0,350.0
+Ayote sazón,2025-08-04,306.25,Ayote sazón2025-08-04,Kilo,Kilo,250.0,350.0,300.0
+Ayote sazón,2025-08-05,341.67,Ayote sazón2025-08-05,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-06,350.0,Ayote sazón2025-08-06,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-07,346.88,Ayote sazón2025-08-07,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-08,350.0,Ayote sazón2025-08-08,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-11,339.47,Ayote sazón2025-08-11,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-12,337.5,Ayote sazón2025-08-12,Kilo,Kilo,300.0,350.0,350.0
+Ayote sazón,2025-08-13,335.71,Ayote sazón2025-08-13,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-14,330.77,Ayote sazón2025-08-14,Kilo,Kilo,300.0,350.0,350.0
+Ayote sazón,2025-08-15,313.33,Ayote sazón2025-08-15,Kilo,Kilo,250.0,350.0,300.0
+Ayote sazón,2025-08-18,340.63,Ayote sazón2025-08-18,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón,2025-08-19,337.5,Ayote sazón2025-08-19,Kilo,Kilo,300.0,400.0,350.0
+Ayote sazón mantequilla,2025-08-01,614.29,Ayote sazón mantequilla2025-08-01,Kilo,Kilo,500.0,700.0,600.0
+Ayote sazón mantequilla,2025-08-04,692.86,Ayote sazón mantequilla2025-08-04,Kilo,Kilo,600.0,800.0,600.0
+Ayote sazón mantequilla,2025-08-06,622.22,Ayote sazón mantequilla2025-08-06,Kilo,Kilo,600.0,700.0,600.0
+Ayote sazón mantequilla,2025-08-08,657.14,Ayote sazón mantequilla2025-08-08,Kilo,Kilo,600.0,700.0,700.0
+Ayote sazón mantequilla,2025-08-11,640.0,Ayote sazón mantequilla2025-08-11,Kilo,Kilo,600.0,700.0,600.0
+Ayote sazón mantequilla,2025-08-13,700.0,Ayote sazón mantequilla2025-08-13,Kilo,Kilo,600.0,800.0,700.0
+Ayote sazón mantequilla,2025-08-15,638.89,Ayote sazón mantequilla2025-08-15,Kilo,Kilo,600.0,700.0,600.0
+Ayote sazón mantequilla,2025-08-18,683.33,Ayote sazón mantequilla2025-08-18,Kilo,Kilo,600.0,800.0,600.0
+Ayote tierno,2025-08-01,512.5,Ayote tierno2025-08-01,Unidad,Unidad,500.0,550.0,500.0
+Ayote tierno,2025-08-04,575.0,Ayote tierno2025-08-04,Unidad,Unidad,500.0,700.0,600.0
+Ayote tierno,2025-08-06,516.67,Ayote tierno2025-08-06,Unidad,Unidad,500.0,600.0,500.0
+Ayote tierno,2025-08-08,555.56,Ayote tierno2025-08-08,Unidad,Unidad,500.0,600.0,600.0
+Ayote tierno,2025-08-11,425.0,Ayote tierno2025-08-11,Unidad,Unidad,400.0,500.0,400.0
+Ayote tierno,2025-08-13,418.75,Ayote tierno2025-08-13,Unidad,Unidad,350.0,500.0,400.0
+Ayote tierno,2025-08-15,422.73,Ayote tierno2025-08-15,Unidad,Unidad,350.0,500.0,400.0
+Ayote tierno,2025-08-18,461.54,Ayote tierno2025-08-18,Unidad,Unidad,400.0,500.0,500.0
+Banano maduro criollo,2025-08-01,30.0,Banano maduro criollo2025-08-01,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-04,30.0,Banano maduro criollo2025-08-04,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-05,29.43,Banano maduro criollo2025-08-05,Unidad,Unidad,28.0,30.0,30.0
+Banano maduro criollo,2025-08-06,30.83,Banano maduro criollo2025-08-06,Unidad,Unidad,30.0,35.0,30.0
+Banano maduro criollo,2025-08-07,30.0,Banano maduro criollo2025-08-07,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-08,29.33,Banano maduro criollo2025-08-08,Unidad,Unidad,27.0,30.0,30.0
+Banano maduro criollo,2025-08-11,30.0,Banano maduro criollo2025-08-11,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-12,30.0,Banano maduro criollo2025-08-12,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-13,30.0,Banano maduro criollo2025-08-13,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-14,30.0,Banano maduro criollo2025-08-14,Unidad,Unidad,30.0,30.0,30.0
+Banano maduro criollo,2025-08-15,32.0,Banano maduro criollo2025-08-15,Unidad,Unidad,30.0,35.0,30.0
+Banano maduro criollo,2025-08-18,30.83,Banano maduro criollo2025-08-18,Unidad,Unidad,30.0,35.0,30.0
+Banano maduro criollo,2025-08-19,29.25,Banano maduro criollo2025-08-19,Unidad,Unidad,27.0,30.0,30.0
+Banano maduro rechazo de exportación,2025-08-01,2950.0,Banano maduro rechazo de exportación2025-08-01,Caja,Caja,2800.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-04,2955.56,Banano maduro rechazo de exportación2025-08-04,Caja,Caja,2800.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-05,2857.14,Banano maduro rechazo de exportación2025-08-05,Caja,Caja,2800.0,3000.0,2800.0
+Banano maduro rechazo de exportación,2025-08-06,2950.0,Banano maduro rechazo de exportación2025-08-06,Caja,Caja,2700.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-07,2815.38,Banano maduro rechazo de exportación2025-08-07,Caja,Caja,2700.0,3000.0,2800.0
+Banano maduro rechazo de exportación,2025-08-08,2887.5,Banano maduro rechazo de exportación2025-08-08,Caja,Caja,2700.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-11,2966.67,Banano maduro rechazo de exportación2025-08-11,Caja,Caja,2800.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-12,2875.0,Banano maduro rechazo de exportación2025-08-12,Caja,Caja,2700.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-13,2900.0,Banano maduro rechazo de exportación2025-08-13,Caja,Caja,2700.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-14,2950.0,Banano maduro rechazo de exportación2025-08-14,Caja,Caja,2800.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-15,2825.0,Banano maduro rechazo de exportación2025-08-15,Caja,Caja,2700.0,3000.0,2800.0
+Banano maduro rechazo de exportación,2025-08-18,2833.33,Banano maduro rechazo de exportación2025-08-18,Caja,Caja,2500.0,3000.0,3000.0
+Banano maduro rechazo de exportación,2025-08-19,2820.0,Banano maduro rechazo de exportación2025-08-19,Caja,Caja,2700.0,3000.0,2700.0
+Banano verde rechazo de exportación,2025-08-01,2950.0,Banano verde rechazo de exportación2025-08-01,Caja,Caja,2800.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-04,2950.0,Banano verde rechazo de exportación2025-08-04,Caja,Caja,2800.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-05,2857.14,Banano verde rechazo de exportación2025-08-05,Caja,Caja,2800.0,3000.0,2800.0
+Banano verde rechazo de exportación,2025-08-06,2950.0,Banano verde rechazo de exportación2025-08-06,Caja,Caja,2700.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-07,2815.38,Banano verde rechazo de exportación2025-08-07,Caja,Caja,2700.0,3000.0,2800.0
+Banano verde rechazo de exportación,2025-08-08,2900.0,Banano verde rechazo de exportación2025-08-08,Caja,Caja,2700.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-11,2966.67,Banano verde rechazo de exportación2025-08-11,Caja,Caja,2800.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-12,2875.0,Banano verde rechazo de exportación2025-08-12,Caja,Caja,2700.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-13,2900.0,Banano verde rechazo de exportación2025-08-13,Caja,Caja,2700.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-14,2950.0,Banano verde rechazo de exportación2025-08-14,Caja,Caja,2800.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-15,2825.0,Banano verde rechazo de exportación2025-08-15,Caja,Caja,2700.0,3000.0,2800.0
+Banano verde rechazo de exportación,2025-08-18,2785.71,Banano verde rechazo de exportación2025-08-18,Caja,Caja,2500.0,3000.0,3000.0
+Banano verde rechazo de exportación,2025-08-19,2820.0,Banano verde rechazo de exportación2025-08-19,Caja,Caja,2700.0,3000.0,2700.0
+Brócoli,2025-08-01,1114.29,Brócoli2025-08-01,Kilo,Kilo,1000.0,1300.0,1000.0
+Brócoli,2025-08-04,937.5,Brócoli2025-08-04,Kilo,Kilo,800.0,1000.0,1000.0
+Brócoli,2025-08-05,1053.33,Brócoli2025-08-05,Kilo,Kilo,800.0,1200.0,1000.0
+Brócoli,2025-08-06,960.87,Brócoli2025-08-06,Kilo,Kilo,800.0,1200.0,1000.0
+Brócoli,2025-08-07,925.0,Brócoli2025-08-07,Kilo,Kilo,800.0,1000.0,1000.0
+Brócoli,2025-08-08,739.13,Brócoli2025-08-08,Kilo,Kilo,600.0,800.0,800.0
+Brócoli,2025-08-11,721.74,Brócoli2025-08-11,Kilo,Kilo,600.0,800.0,700.0
+Brócoli,2025-08-12,817.65,Brócoli2025-08-12,Kilo,Kilo,700.0,1000.0,800.0
+Brócoli,2025-08-13,744.44,Brócoli2025-08-13,Kilo,Kilo,600.0,800.0,800.0
+Brócoli,2025-08-14,695.83,Brócoli2025-08-14,Kilo,Kilo,600.0,800.0,700.0
+Brócoli,2025-08-15,700.0,Brócoli2025-08-15,Kilo,Kilo,600.0,800.0,700.0
+Brócoli,2025-08-18,680.0,Brócoli2025-08-18,Kilo,Kilo,500.0,800.0,700.0
+Brócoli,2025-08-19,664.0,Brócoli2025-08-19,Kilo,Kilo,500.0,800.0,700.0
+Camote,2025-08-01,1066.67,Camote2025-08-01,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-04,1035.71,Camote2025-08-04,Kilo,Kilo,900.0,1200.0,1000.0
+Camote,2025-08-05,1066.67,Camote2025-08-05,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-06,1066.67,Camote2025-08-06,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-07,1000.0,Camote2025-08-07,Kilo,Kilo,900.0,1100.0,1000.0
+Camote,2025-08-08,1066.67,Camote2025-08-08,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-11,1053.85,Camote2025-08-11,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-12,1050.0,Camote2025-08-12,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-13,1042.86,Camote2025-08-13,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-14,1090.91,Camote2025-08-14,Kilo,Kilo,1000.0,1200.0,1000.0
+Camote,2025-08-15,1108.33,Camote2025-08-15,Kilo,Kilo,1000.0,1200.0,1200.0
+Camote,2025-08-18,1100.0,Camote2025-08-18,Kilo,Kilo,1000.0,1200.0,1100.0
+Camote,2025-08-19,1107.14,Camote2025-08-19,Kilo,Kilo,1000.0,1200.0,1200.0
+Camote Zanahoria,2025-08-01,1222.22,Camote Zanahoria2025-08-01,Kilo,Kilo,1100.0,1400.0,1200.0
+Camote Zanahoria,2025-08-04,1141.67,Camote Zanahoria2025-08-04,Kilo,Kilo,1000.0,1300.0,1200.0
+Camote Zanahoria,2025-08-06,1158.33,Camote Zanahoria2025-08-06,Kilo,Kilo,1000.0,1300.0,1200.0
+Camote Zanahoria,2025-08-08,1214.29,Camote Zanahoria2025-08-08,Kilo,Kilo,1200.0,1300.0,1200.0
+Camote Zanahoria,2025-08-11,1200.0,Camote Zanahoria2025-08-11,Kilo,Kilo,1100.0,1300.0,1200.0
+Camote Zanahoria,2025-08-13,1150.0,Camote Zanahoria2025-08-13,Kilo,Kilo,1000.0,1200.0,1200.0
+Camote Zanahoria,2025-08-15,1200.0,Camote Zanahoria2025-08-15,Kilo,Kilo,1100.0,1300.0,1200.0
+Camote Zanahoria,2025-08-18,1220.0,Camote Zanahoria2025-08-18,Kilo,Kilo,1200.0,1300.0,1200.0
+Carambola,2025-08-01,680.0,Carambola2025-08-01,Kilo,Kilo,600.0,800.0,600.0
+Carambola,2025-08-04,687.5,Carambola2025-08-04,Kilo,Kilo,600.0,800.0,700.0
+Carambola,2025-08-06,680.0,Carambola2025-08-06,Kilo,Kilo,600.0,800.0,600.0
+Carambola,2025-08-08,688.89,Carambola2025-08-08,Kilo,Kilo,600.0,800.0,700.0
+Carambola,2025-08-11,680.0,Carambola2025-08-11,Kilo,Kilo,600.0,800.0,600.0
+Carambola,2025-08-13,685.71,Carambola2025-08-13,Kilo,Kilo,600.0,800.0,600.0
+Carambola,2025-08-15,716.67,Carambola2025-08-15,Kilo,Kilo,600.0,800.0,800.0
+Carambola,2025-08-18,733.33,Carambola2025-08-18,Kilo,Kilo,700.0,800.0,700.0
+Cas,2025-08-01,733.33,Cas2025-08-01,Kilo,Kilo,700.0,800.0,700.0
+Cas,2025-08-04,688.89,Cas2025-08-04,Kilo,Kilo,600.0,800.0,700.0
+Cas,2025-08-06,850.0,Cas2025-08-06,Kilo,Kilo,800.0,1000.0,800.0
+Cas,2025-08-08,828.57,Cas2025-08-08,Kilo,Kilo,700.0,1000.0,800.0
+Cas,2025-08-11,816.67,Cas2025-08-11,Kilo,Kilo,700.0,1000.0,800.0
+Cas,2025-08-13,722.22,Cas2025-08-13,Kilo,Kilo,600.0,800.0,800.0
+Cas,2025-08-15,780.0,Cas2025-08-15,Kilo,Kilo,700.0,800.0,800.0
+Cas,2025-08-18,757.14,Cas2025-08-18,Kilo,Kilo,700.0,800.0,800.0
+Cebolla seca amarilla burra,2025-08-01,591.67,Cebolla seca amarilla burra2025-08-01,Kilo,Kilo,550.0,650.0,600.0
+Cebolla seca amarilla burra,2025-08-04,550.0,Cebolla seca amarilla burra2025-08-04,Kilo,Kilo,500.0,600.0,550.0
+Cebolla seca amarilla burra,2025-08-05,533.33,Cebolla seca amarilla burra2025-08-05,Kilo,Kilo,500.0,600.0,550.0
+Cebolla seca amarilla burra,2025-08-06,545.83,Cebolla seca amarilla burra2025-08-06,Kilo,Kilo,500.0,600.0,550.0
+Cebolla seca amarilla burra,2025-08-07,522.22,Cebolla seca amarilla burra2025-08-07,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla burra,2025-08-08,512.5,Cebolla seca amarilla burra2025-08-08,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla burra,2025-08-11,534.62,Cebolla seca amarilla burra2025-08-11,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla burra,2025-08-12,528.13,Cebolla seca amarilla burra2025-08-12,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla burra,2025-08-13,516.67,Cebolla seca amarilla burra2025-08-13,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla burra,2025-08-14,545.45,Cebolla seca amarilla burra2025-08-14,Kilo,Kilo,500.0,600.0,550.0
+Cebolla seca amarilla burra,2025-08-15,528.57,Cebolla seca amarilla burra2025-08-15,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla burra,2025-08-18,533.33,Cebolla seca amarilla burra2025-08-18,Kilo,Kilo,500.0,600.0,550.0
+Cebolla seca amarilla burra,2025-08-19,543.75,Cebolla seca amarilla burra2025-08-19,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla suelta,2025-08-01,578.57,Cebolla seca amarilla suelta2025-08-01,Kilo,Kilo,550.0,600.0,600.0
+Cebolla seca amarilla suelta,2025-08-04,520.0,Cebolla seca amarilla suelta2025-08-04,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-05,505.56,Cebolla seca amarilla suelta2025-08-05,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-06,520.83,Cebolla seca amarilla suelta2025-08-06,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-07,519.23,Cebolla seca amarilla suelta2025-08-07,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-08,505.56,Cebolla seca amarilla suelta2025-08-08,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-11,514.71,Cebolla seca amarilla suelta2025-08-11,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-12,502.78,Cebolla seca amarilla suelta2025-08-12,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-13,505.56,Cebolla seca amarilla suelta2025-08-13,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-14,494.44,Cebolla seca amarilla suelta2025-08-14,Kilo,Kilo,450.0,500.0,500.0
+Cebolla seca amarilla suelta,2025-08-15,487.5,Cebolla seca amarilla suelta2025-08-15,Kilo,Kilo,450.0,500.0,500.0
+Cebolla seca amarilla suelta,2025-08-18,493.75,Cebolla seca amarilla suelta2025-08-18,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla suelta,2025-08-19,482.14,Cebolla seca amarilla suelta2025-08-19,Kilo,Kilo,450.0,500.0,500.0
+Cebolla seca amarilla suelta importada,2025-08-05,550.0,Cebolla seca amarilla suelta importada2025-08-05,Kilo,Kilo,550.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-06,543.75,Cebolla seca amarilla suelta importada2025-08-06,Kilo,Kilo,525.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-07,520.83,Cebolla seca amarilla suelta importada2025-08-07,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta importada,2025-08-08,512.5,Cebolla seca amarilla suelta importada2025-08-08,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta importada,2025-08-11,540.0,Cebolla seca amarilla suelta importada2025-08-11,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-12,550.0,Cebolla seca amarilla suelta importada2025-08-12,Kilo,Kilo,550.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-13,528.33,Cebolla seca amarilla suelta importada2025-08-13,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-14,529.17,Cebolla seca amarilla suelta importada2025-08-14,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-15,550.0,Cebolla seca amarilla suelta importada2025-08-15,Kilo,Kilo,550.0,550.0,550.0
+Cebolla seca amarilla suelta importada,2025-08-18,522.22,Cebolla seca amarilla suelta importada2025-08-18,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla suelta importada,2025-08-19,516.67,Cebolla seca amarilla suelta importada2025-08-19,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-01,578.57,Cebolla seca amarilla trenza2025-08-01,Kilo,Kilo,550.0,600.0,600.0
+Cebolla seca amarilla trenza,2025-08-04,520.0,Cebolla seca amarilla trenza2025-08-04,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-05,505.56,Cebolla seca amarilla trenza2025-08-05,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-06,528.13,Cebolla seca amarilla trenza2025-08-06,Kilo,Kilo,500.0,550.0,550.0
+Cebolla seca amarilla trenza,2025-08-07,519.23,Cebolla seca amarilla trenza2025-08-07,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-08,505.56,Cebolla seca amarilla trenza2025-08-08,Kilo,Kilo,500.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-11,512.0,Cebolla seca amarilla trenza2025-08-11,Kilo,Kilo,450.0,550.0,550.0
+Cebolla seca amarilla trenza,2025-08-12,497.92,Cebolla seca amarilla trenza2025-08-12,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-13,502.22,Cebolla seca amarilla trenza2025-08-13,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-14,505.0,Cebolla seca amarilla trenza2025-08-14,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-15,487.5,Cebolla seca amarilla trenza2025-08-15,Kilo,Kilo,450.0,500.0,500.0
+Cebolla seca amarilla trenza,2025-08-18,497.73,Cebolla seca amarilla trenza2025-08-18,Kilo,Kilo,450.0,550.0,500.0
+Cebolla seca amarilla trenza,2025-08-19,484.78,Cebolla seca amarilla trenza2025-08-19,Kilo,Kilo,450.0,500.0,500.0
+Cebolla seca morada,2025-08-01,1268.75,Cebolla seca morada2025-08-01,Kilo,Kilo,1200.0,1350.0,1300.0
+Cebolla seca morada,2025-08-04,1257.14,Cebolla seca morada2025-08-04,Kilo,Kilo,1200.0,1300.0,1300.0
+Cebolla seca morada,2025-08-05,1290.0,Cebolla seca morada2025-08-05,Kilo,Kilo,1200.0,1400.0,1300.0
+Cebolla seca morada,2025-08-06,1242.86,Cebolla seca morada2025-08-06,Kilo,Kilo,1100.0,1400.0,1200.0
+Cebolla seca morada,2025-08-07,1233.33,Cebolla seca morada2025-08-07,Kilo,Kilo,1200.0,1300.0,1200.0
+Cebolla seca morada,2025-08-08,1230.0,Cebolla seca morada2025-08-08,Kilo,Kilo,1200.0,1300.0,1200.0
+Cebolla seca morada,2025-08-11,1223.08,Cebolla seca morada2025-08-11,Kilo,Kilo,1100.0,1300.0,1200.0
+Cebolla seca morada,2025-08-12,1125.0,Cebolla seca morada2025-08-12,Kilo,Kilo,1000.0,1200.0,1200.0
+Cebolla seca morada,2025-08-13,1138.89,Cebolla seca morada2025-08-13,Kilo,Kilo,1000.0,1200.0,1200.0
+Cebolla seca morada,2025-08-14,1136.36,Cebolla seca morada2025-08-14,Kilo,Kilo,1000.0,1200.0,1200.0
+Cebolla seca morada,2025-08-15,1160.0,Cebolla seca morada2025-08-15,Kilo,Kilo,1100.0,1200.0,1200.0
+Cebolla seca morada,2025-08-18,1125.0,Cebolla seca morada2025-08-18,Kilo,Kilo,1000.0,1250.0,1200.0
+Cebolla seca morada,2025-08-19,1105.0,Cebolla seca morada2025-08-19,Kilo,Kilo,1000.0,1200.0,1200.0
+Cebolla seca morada importada,2025-08-07,1166.67,Cebolla seca morada importada2025-08-07,Kilo,Kilo,1100.0,1200.0,1200.0
+Cebolla seca morada importada,2025-08-14,1233.33,Cebolla seca morada importada2025-08-14,Kilo,Kilo,1200.0,1300.0,1200.0
+Cebolla seca morada importada,2025-08-18,1266.67,Cebolla seca morada importada2025-08-18,Kilo,Kilo,1200.0,1400.0,1200.0
+Cebollino,2025-08-01,226.32,Cebollino2025-08-01,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-04,235.71,Cebollino2025-08-04,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-06,230.95,Cebollino2025-08-06,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-08,226.47,Cebollino2025-08-08,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-11,226.32,Cebollino2025-08-11,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-13,226.47,Cebollino2025-08-13,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-15,237.5,Cebollino2025-08-15,Rollo,Rollo,200.0,250.0,250.0
+Cebollino,2025-08-18,227.94,Cebollino2025-08-18,Rollo,Rollo,200.0,250.0,250.0
+Chayote tierno criollo,2025-08-01,17750.0,Chayote tierno criollo2025-08-01,Java,Java,17000.0,18000.0,18000.0
+Chayote tierno criollo,2025-08-04,18500.0,Chayote tierno criollo2025-08-04,Java,Java,16000.0,20000.0,18000.0
+Chayote tierno criollo,2025-08-05,17900.0,Chayote tierno criollo2025-08-05,Java,Java,16000.0,20000.0,18000.0
+Chayote tierno criollo,2025-08-06,17750.0,Chayote tierno criollo2025-08-06,Java,Java,17000.0,18000.0,18000.0
+Chayote tierno criollo,2025-08-07,19142.86,Chayote tierno criollo2025-08-07,Java,Java,18000.0,20000.0,20000.0
+Chayote tierno criollo,2025-08-08,18666.67,Chayote tierno criollo2025-08-08,Java,Java,18000.0,20000.0,18000.0
+Chayote tierno criollo,2025-08-11,18555.56,Chayote tierno criollo2025-08-11,Java,Java,18000.0,20000.0,18000.0
+Chayote tierno criollo,2025-08-12,20285.71,Chayote tierno criollo2025-08-12,Java,Java,18000.0,22000.0,20000.0
+Chayote tierno criollo,2025-08-13,20000.0,Chayote tierno criollo2025-08-13,Java,Java,18000.0,22000.0,20000.0
+Chayote tierno criollo,2025-08-14,21500.0,Chayote tierno criollo2025-08-14,Java,Java,20000.0,22000.0,22000.0
+Chayote tierno criollo,2025-08-15,19636.36,Chayote tierno criollo2025-08-15,Java,Java,18000.0,22000.0,20000.0
+Chayote tierno criollo,2025-08-18,20333.33,Chayote tierno criollo2025-08-18,Java,Java,20000.0,22000.0,20000.0
+Chayote tierno criollo,2025-08-19,22333.33,Chayote tierno criollo2025-08-19,Java,Java,20000.0,25000.0,22000.0
+Chayote tierno quelite,2025-08-01,10444.44,Chayote tierno quelite2025-08-01,Java,Java,10000.0,12000.0,10000.0
+Chayote tierno quelite,2025-08-04,13181.82,Chayote tierno quelite2025-08-04,Java,Java,12000.0,14000.0,14000.0
+Chayote tierno quelite,2025-08-05,13400.0,Chayote tierno quelite2025-08-05,Java,Java,12000.0,14000.0,14000.0
+Chayote tierno quelite,2025-08-06,13200.0,Chayote tierno quelite2025-08-06,Java,Java,12000.0,14000.0,14000.0
+Chayote tierno quelite,2025-08-07,13666.67,Chayote tierno quelite2025-08-07,Java,Java,13000.0,14000.0,14000.0
+Chayote tierno quelite,2025-08-08,13166.67,Chayote tierno quelite2025-08-08,Java,Java,12000.0,14000.0,14000.0
+Chayote tierno quelite,2025-08-11,14888.89,Chayote tierno quelite2025-08-11,Java,Java,14000.0,16000.0,15000.0
+Chayote tierno quelite,2025-08-12,19090.91,Chayote tierno quelite2025-08-12,Java,Java,18000.0,20000.0,20000.0
+Chayote tierno quelite,2025-08-13,18625.0,Chayote tierno quelite2025-08-13,Java,Java,17000.0,20000.0,18000.0
+Chayote tierno quelite,2025-08-14,20875.0,Chayote tierno quelite2025-08-14,Java,Java,20000.0,22000.0,20000.0
+Chayote tierno quelite,2025-08-15,19230.77,Chayote tierno quelite2025-08-15,Java,Java,18000.0,20000.0,20000.0
+Chayote tierno quelite,2025-08-18,19555.56,Chayote tierno quelite2025-08-18,Java,Java,18000.0,22000.0,20000.0
+Chayote tierno quelite,2025-08-19,22090.91,Chayote tierno quelite2025-08-19,Java,Java,20000.0,25000.0,22000.0
+Chile dulce jumbo Caja,2025-08-01,23400.0,Chile dulce jumbo Caja2025-08-01,plástica,plástica,23000.0,24000.0,23000.0
+Chile dulce jumbo Caja,2025-08-04,26250.0,Chile dulce jumbo Caja2025-08-04,plástica,plástica,25000.0,28000.0,26000.0
+Chile dulce jumbo Caja,2025-08-05,28500.0,Chile dulce jumbo Caja2025-08-05,plástica,plástica,27000.0,30000.0,28000.0
+Chile dulce jumbo Caja,2025-08-06,28333.33,Chile dulce jumbo Caja2025-08-06,plástica,plástica,28000.0,30000.0,28000.0
+Chile dulce jumbo Caja,2025-08-07,29000.0,Chile dulce jumbo Caja2025-08-07,plástica,plástica,27000.0,30000.0,30000.0
+Chile dulce jumbo Caja,2025-08-08,29000.0,Chile dulce jumbo Caja2025-08-08,plástica,plástica,28000.0,30000.0,29000.0
+Chile dulce jumbo Caja,2025-08-11,20375.0,Chile dulce jumbo Caja2025-08-11,plástica,plástica,20000.0,22000.0,20000.0
+Chile dulce jumbo Caja,2025-08-12,23800.0,Chile dulce jumbo Caja2025-08-12,plástica,plástica,23000.0,24000.0,24000.0
+Chile dulce jumbo Caja,2025-08-13,23800.0,Chile dulce jumbo Caja2025-08-13,plástica,plástica,23000.0,24000.0,24000.0
+Chile dulce jumbo Caja,2025-08-14,23555.56,Chile dulce jumbo Caja2025-08-14,plástica,plástica,23000.0,24000.0,24000.0
+Chile dulce jumbo Caja,2025-08-15,23333.33,Chile dulce jumbo Caja2025-08-15,plástica,plástica,23000.0,24000.0,23000.0
+Chile dulce jumbo Caja,2025-08-18,21800.0,Chile dulce jumbo Caja2025-08-18,plástica,plástica,21000.0,22000.0,22000.0
+Chile dulce jumbo Caja,2025-08-19,21625.0,Chile dulce jumbo Caja2025-08-19,plástica,plástica,21000.0,22000.0,22000.0
+Chile dulce primera Caja,2025-08-01,21714.29,Chile dulce primera Caja2025-08-01,plástica,plástica,21000.0,22000.0,22000.0
+Chile dulce primera Caja,2025-08-04,24400.0,Chile dulce primera Caja2025-08-04,plástica,plástica,23000.0,25000.0,25000.0
+Chile dulce primera Caja,2025-08-05,26250.0,Chile dulce primera Caja2025-08-05,plástica,plástica,26000.0,27000.0,26000.0
+Chile dulce primera Caja,2025-08-06,26333.33,Chile dulce primera Caja2025-08-06,plástica,plástica,26000.0,27000.0,26000.0
+Chile dulce primera Caja,2025-08-07,27375.0,Chile dulce primera Caja2025-08-07,plástica,plástica,25000.0,28000.0,28000.0
+Chile dulce primera Caja,2025-08-08,26600.0,Chile dulce primera Caja2025-08-08,plástica,plástica,26000.0,27000.0,27000.0
+Chile dulce primera Caja,2025-08-11,18666.67,Chile dulce primera Caja2025-08-11,plástica,plástica,18000.0,20000.0,18000.0
+Chile dulce primera Caja,2025-08-12,22250.0,Chile dulce primera Caja2025-08-12,plástica,plástica,22000.0,23000.0,22000.0
+Chile dulce primera Caja,2025-08-13,22400.0,Chile dulce primera Caja2025-08-13,plástica,plástica,22000.0,23000.0,22000.0
+Chile dulce primera Caja,2025-08-14,22285.71,Chile dulce primera Caja2025-08-14,plástica,plástica,21000.0,23000.0,23000.0
+Chile dulce primera Caja,2025-08-15,21125.0,Chile dulce primera Caja2025-08-15,plástica,plástica,20000.0,22000.0,22000.0
+Chile dulce primera Caja,2025-08-18,18625.0,Chile dulce primera Caja2025-08-18,plástica,plástica,18000.0,20000.0,18000.0
+Chile dulce primera Caja,2025-08-19,18250.0,Chile dulce primera Caja2025-08-19,plástica,plástica,18000.0,19000.0,18000.0
+Chile dulce segunda Caja,2025-08-01,21714.29,Chile dulce segunda Caja2025-08-01,plástica,plástica,21000.0,22000.0,22000.0
+Chile dulce segunda Caja,2025-08-04,23857.14,Chile dulce segunda Caja2025-08-04,plástica,plástica,23000.0,25000.0,23000.0
+Chile dulce segunda Caja,2025-08-05,26428.57,Chile dulce segunda Caja2025-08-05,plástica,plástica,26000.0,27000.0,26000.0
+Chile dulce segunda Caja,2025-08-06,26400.0,Chile dulce segunda Caja2025-08-06,plástica,plástica,26000.0,27000.0,26000.0
+Chile dulce segunda Caja,2025-08-07,26250.0,Chile dulce segunda Caja2025-08-07,plástica,plástica,25000.0,27000.0,27000.0
+Chile dulce segunda Caja,2025-08-08,26000.0,Chile dulce segunda Caja2025-08-08,plástica,plástica,26000.0,26000.0,26000.0
+Chile dulce segunda Caja,2025-08-11,18000.0,Chile dulce segunda Caja2025-08-11,plástica,plástica,17000.0,19000.0,18000.0
+Chile dulce segunda Caja,2025-08-12,20833.33,Chile dulce segunda Caja2025-08-12,plástica,plástica,20000.0,22000.0,20000.0
+Chile dulce segunda Caja,2025-08-13,21166.67,Chile dulce segunda Caja2025-08-13,plástica,plástica,20000.0,22000.0,22000.0
+Chile dulce segunda Caja,2025-08-14,20444.44,Chile dulce segunda Caja2025-08-14,plástica,plástica,20000.0,22000.0,20000.0
+Chile dulce segunda Caja,2025-08-15,19666.67,Chile dulce segunda Caja2025-08-15,plástica,plástica,18000.0,20000.0,20000.0
+Chile dulce segunda Caja,2025-08-18,18500.0,Chile dulce segunda Caja2025-08-18,plástica,plástica,18000.0,20000.0,18000.0
+Chile dulce segunda Caja,2025-08-19,18250.0,Chile dulce segunda Caja2025-08-19,plástica,plástica,18000.0,19000.0,18000.0
+Chile dulce tercera Caja,2025-08-01,13333.33,Chile dulce tercera Caja2025-08-01,plástica,plástica,13000.0,15000.0,13000.0
+Chile dulce tercera Caja,2025-08-04,15285.71,Chile dulce tercera Caja2025-08-04,plástica,plástica,15000.0,16000.0,15000.0
+Chile dulce tercera Caja,2025-08-05,17857.14,Chile dulce tercera Caja2025-08-05,plástica,plástica,17000.0,18000.0,18000.0
+Chile dulce tercera Caja,2025-08-06,17714.29,Chile dulce tercera Caja2025-08-06,plástica,plástica,17000.0,18000.0,18000.0
+Chile dulce tercera Caja,2025-08-07,18636.36,Chile dulce tercera Caja2025-08-07,plástica,plástica,17000.0,20000.0,18000.0
+Chile dulce tercera Caja,2025-08-08,17833.33,Chile dulce tercera Caja2025-08-08,plástica,plástica,17000.0,18000.0,18000.0
+Chile dulce tercera Caja,2025-08-11,11700.0,Chile dulce tercera Caja2025-08-11,plástica,plástica,11000.0,13000.0,12000.0
+Chile dulce tercera Caja,2025-08-12,14200.0,Chile dulce tercera Caja2025-08-12,plástica,plástica,14000.0,15000.0,14000.0
+Chile dulce tercera Caja,2025-08-13,13857.14,Chile dulce tercera Caja2025-08-13,plástica,plástica,13000.0,15000.0,14000.0
+Chile dulce tercera Caja,2025-08-14,12888.89,Chile dulce tercera Caja2025-08-14,plástica,plástica,12000.0,14000.0,13000.0
+Chile dulce tercera Caja,2025-08-15,12714.29,Chile dulce tercera Caja2025-08-15,plástica,plástica,12000.0,13000.0,13000.0
+Chile dulce tercera Caja,2025-08-18,11375.0,Chile dulce tercera Caja2025-08-18,plástica,plástica,11000.0,12000.0,11000.0
+Chile dulce tercera Caja,2025-08-19,11555.56,Chile dulce tercera Caja2025-08-19,plástica,plástica,11000.0,12000.0,12000.0
+Coco,2025-08-01,500.0,Coco2025-08-01,Unidad,Unidad,500.0,500.0,500.0
+Coco,2025-08-04,504.55,Coco2025-08-04,Unidad,Unidad,450.0,550.0,500.0
+Coco,2025-08-06,506.25,Coco2025-08-06,Unidad,Unidad,500.0,550.0,500.0
+Coco,2025-08-08,510.0,Coco2025-08-08,Unidad,Unidad,400.0,600.0,500.0
+Coco,2025-08-11,500.0,Coco2025-08-11,Unidad,Unidad,500.0,500.0,500.0
+Coco,2025-08-13,500.0,Coco2025-08-13,Unidad,Unidad,400.0,600.0,500.0
+Coco,2025-08-15,500.0,Coco2025-08-15,Unidad,Unidad,500.0,500.0,500.0
+Coco,2025-08-18,520.0,Coco2025-08-18,Unidad,Unidad,500.0,600.0,500.0
+Coliflor,2025-08-01,1276.92,Coliflor2025-08-01,Unidad,Unidad,1200.0,1500.0,1200.0
+Coliflor,2025-08-04,1260.0,Coliflor2025-08-04,Unidad,Unidad,1000.0,1500.0,1200.0
+Coliflor,2025-08-05,1130.77,Coliflor2025-08-05,Unidad,Unidad,1000.0,1300.0,1200.0
+Coliflor,2025-08-06,1220.83,Coliflor2025-08-06,Unidad,Unidad,1000.0,1500.0,1200.0
+Coliflor,2025-08-07,1106.67,Coliflor2025-08-07,Unidad,Unidad,1000.0,1200.0,1200.0
+Coliflor,2025-08-08,1122.73,Coliflor2025-08-08,Unidad,Unidad,1000.0,1300.0,1000.0
+Coliflor,2025-08-11,1088.89,Coliflor2025-08-11,Unidad,Unidad,1000.0,1300.0,1000.0
+Coliflor,2025-08-12,1080.0,Coliflor2025-08-12,Unidad,Unidad,1000.0,1200.0,1000.0
+Coliflor,2025-08-13,1200.0,Coliflor2025-08-13,Unidad,Unidad,1000.0,1500.0,1200.0
+Coliflor,2025-08-14,1070.59,Coliflor2025-08-14,Unidad,Unidad,1000.0,1200.0,1000.0
+Coliflor,2025-08-15,1165.22,Coliflor2025-08-15,Unidad,Unidad,1000.0,1500.0,1200.0
+Coliflor,2025-08-18,1218.75,Coliflor2025-08-18,Unidad,Unidad,1000.0,1500.0,1000.0
+Coliflor,2025-08-19,915.0,Coliflor2025-08-19,Unidad,Unidad,800.0,1000.0,1000.0
+Culantro castilla Rollo de 10,2025-08-01,777.78,Culantro castilla Rollo de 102025-08-01,rollitos,rollitos,700.0,900.0,800.0
+Culantro castilla Rollo de 10,2025-08-04,820.0,Culantro castilla Rollo de 102025-08-04,rollitos,rollitos,700.0,1000.0,800.0
+Culantro castilla Rollo de 10,2025-08-05,760.0,Culantro castilla Rollo de 102025-08-05,rollitos,rollitos,700.0,800.0,800.0
+Culantro castilla Rollo de 10,2025-08-06,768.42,Culantro castilla Rollo de 102025-08-06,rollitos,rollitos,600.0,900.0,800.0
+Culantro castilla Rollo de 10,2025-08-07,772.22,Culantro castilla Rollo de 102025-08-07,rollitos,rollitos,700.0,900.0,800.0
+Culantro castilla Rollo de 10,2025-08-08,782.35,Culantro castilla Rollo de 102025-08-08,rollitos,rollitos,700.0,1000.0,800.0
+Culantro castilla Rollo de 10,2025-08-11,763.64,Culantro castilla Rollo de 102025-08-11,rollitos,rollitos,700.0,800.0,800.0
+Culantro castilla Rollo de 10,2025-08-12,710.0,Culantro castilla Rollo de 102025-08-12,rollitos,rollitos,600.0,800.0,800.0
+Culantro castilla Rollo de 10,2025-08-13,760.0,Culantro castilla Rollo de 102025-08-13,rollitos,rollitos,700.0,900.0,800.0
+Culantro castilla Rollo de 10,2025-08-14,828.57,Culantro castilla Rollo de 102025-08-14,rollitos,rollitos,700.0,1000.0,800.0
+Culantro castilla Rollo de 10,2025-08-15,755.56,Culantro castilla Rollo de 102025-08-15,rollitos,rollitos,700.0,800.0,800.0
+Culantro castilla Rollo de 10,2025-08-18,766.67,Culantro castilla Rollo de 102025-08-18,rollitos,rollitos,700.0,900.0,800.0
+Culantro castilla Rollo de 10,2025-08-19,735.29,Culantro castilla Rollo de 102025-08-19,rollitos,rollitos,600.0,800.0,700.0
+Elote,2025-08-01,140.0,Elote2025-08-01,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-04,141.43,Elote2025-08-04,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-05,142.5,Elote2025-08-05,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-06,142.5,Elote2025-08-06,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-07,140.0,Elote2025-08-07,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-08,144.0,Elote2025-08-08,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-11,132.86,Elote2025-08-11,Unidad,Unidad,120.0,150.0,120.0
+Elote,2025-08-12,142.5,Elote2025-08-12,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-13,138.0,Elote2025-08-13,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-14,140.0,Elote2025-08-14,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-15,128.57,Elote2025-08-15,Unidad,Unidad,120.0,150.0,120.0
+Elote,2025-08-18,136.67,Elote2025-08-18,Unidad,Unidad,120.0,150.0,150.0
+Elote,2025-08-19,133.75,Elote2025-08-19,Unidad,Unidad,120.0,150.0,120.0
+Espinaca,2025-08-01,245.45,Espinaca2025-08-01,Rollo,Rollo,200.0,300.0,250.0
+Espinaca,2025-08-04,268.18,Espinaca2025-08-04,Rollo,Rollo,250.0,300.0,250.0
+Espinaca,2025-08-06,250.0,Espinaca2025-08-06,Rollo,Rollo,200.0,300.0,250.0
+Espinaca,2025-08-08,259.09,Espinaca2025-08-08,Rollo,Rollo,200.0,300.0,250.0
+Espinaca,2025-08-11,269.23,Espinaca2025-08-11,Rollo,Rollo,250.0,300.0,250.0
+Espinaca,2025-08-13,260.0,Espinaca2025-08-13,Rollo,Rollo,250.0,300.0,250.0
+Espinaca,2025-08-15,254.55,Espinaca2025-08-15,Rollo,Rollo,200.0,300.0,250.0
+Espinaca,2025-08-18,265.0,Espinaca2025-08-18,Rollo,Rollo,250.0,300.0,250.0
+Fresa (1 Kg) Bandeja (1,2025-08-01,2480.0,Fresa (1 Kg) Bandeja (12025-08-01,kg),kg),2400.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-04,2485.71,Fresa (1 Kg) Bandeja (12025-08-04,kg),kg),2400.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-06,2454.55,Fresa (1 Kg) Bandeja (12025-08-06,kg),kg),2300.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-08,2483.33,Fresa (1 Kg) Bandeja (12025-08-08,kg),kg),2400.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-11,2520.0,Fresa (1 Kg) Bandeja (12025-08-11,kg),kg),2500.0,2600.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-13,2500.0,Fresa (1 Kg) Bandeja (12025-08-13,kg),kg),2500.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-15,2444.44,Fresa (1 Kg) Bandeja (12025-08-15,kg),kg),2300.0,2500.0,2500.0
+Fresa (1 Kg) Bandeja (1,2025-08-18,2487.5,Fresa (1 Kg) Bandeja (12025-08-18,kg),kg),2400.0,2600.0,2500.0
+Fresa (400 g) Bandeja (400,2025-08-01,1270.0,Fresa (400 g) Bandeja (4002025-08-01,g),g),1200.0,1300.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-04,1271.43,Fresa (400 g) Bandeja (4002025-08-04,g),g),1200.0,1300.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-06,1261.11,Fresa (400 g) Bandeja (4002025-08-06,g),g),1100.0,1450.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-08,1250.0,Fresa (400 g) Bandeja (4002025-08-08,g),g),1100.0,1300.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-11,1280.0,Fresa (400 g) Bandeja (4002025-08-11,g),g),1200.0,1300.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-13,1287.5,Fresa (400 g) Bandeja (4002025-08-13,g),g),1200.0,1500.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-15,1237.5,Fresa (400 g) Bandeja (4002025-08-15,g),g),1100.0,1300.0,1300.0
+Fresa (400 g) Bandeja (400,2025-08-18,1237.5,Fresa (400 g) Bandeja (4002025-08-18,g),g),1100.0,1300.0,1300.0
+Guanábana injertada,2025-08-07,1960.0,Guanábana injertada2025-08-07,Kilo,Kilo,1800.0,2000.0,2000.0
+Guanábana injertada,2025-08-08,1775.0,Guanábana injertada2025-08-08,Kilo,Kilo,1700.0,1800.0,1800.0
+Guanábana injertada,2025-08-11,2000.0,Guanábana injertada2025-08-11,Kilo,Kilo,2000.0,2000.0,2000.0
+Guanábana injertada,2025-08-13,2000.0,Guanábana injertada2025-08-13,Kilo,Kilo,1800.0,2200.0,2000.0
+Guanábana injertada,2025-08-18,1950.0,Guanábana injertada2025-08-18,Kilo,Kilo,1800.0,2000.0,2000.0
+Guanábana injertada,2025-08-19,2000.0,Guanábana injertada2025-08-19,Kilo,Kilo,2000.0,2000.0,2000.0
+Guayaba China/Taiwanesa,2025-08-01,1000.0,Guayaba China/Taiwanesa2025-08-01,Kilo,Kilo,1000.0,1000.0,1000.0
+Guayaba China/Taiwanesa,2025-08-04,987.5,Guayaba China/Taiwanesa2025-08-04,Kilo,Kilo,900.0,1000.0,1000.0
+Guayaba China/Taiwanesa,2025-08-06,977.78,Guayaba China/Taiwanesa2025-08-06,Kilo,Kilo,800.0,1200.0,1000.0
+Guayaba China/Taiwanesa,2025-08-08,990.0,Guayaba China/Taiwanesa2025-08-08,Kilo,Kilo,800.0,1200.0,1000.0
+Guayaba China/Taiwanesa,2025-08-11,1000.0,Guayaba China/Taiwanesa2025-08-11,Kilo,Kilo,800.0,1200.0,1000.0
+Guayaba China/Taiwanesa,2025-08-13,920.0,Guayaba China/Taiwanesa2025-08-13,Kilo,Kilo,800.0,1000.0,1000.0
+Guayaba China/Taiwanesa,2025-08-15,925.0,Guayaba China/Taiwanesa2025-08-15,Kilo,Kilo,800.0,1000.0,1000.0
+Guayaba China/Taiwanesa,2025-08-18,928.57,Guayaba China/Taiwanesa2025-08-18,Kilo,Kilo,800.0,1000.0,1000.0
+Jengibre sazón,2025-08-01,1120.0,Jengibre sazón2025-08-01,Kilo,Kilo,1000.0,1200.0,1200.0
+Jengibre sazón,2025-08-04,1169.23,Jengibre sazón2025-08-04,Kilo,Kilo,1000.0,1300.0,1200.0
+Jengibre sazón,2025-08-05,1200.0,Jengibre sazón2025-08-05,Kilo,Kilo,1100.0,1300.0,1200.0
+Jengibre sazón,2025-08-06,1190.0,Jengibre sazón2025-08-06,Kilo,Kilo,1000.0,1300.0,1200.0
+Jengibre sazón,2025-08-07,1169.23,Jengibre sazón2025-08-07,Kilo,Kilo,1000.0,1400.0,1200.0
+Jengibre sazón,2025-08-08,1225.0,Jengibre sazón2025-08-08,Kilo,Kilo,1200.0,1400.0,1200.0
+Jengibre sazón,2025-08-11,1227.27,Jengibre sazón2025-08-11,Kilo,Kilo,1100.0,1300.0,1200.0
+Jengibre sazón,2025-08-12,1214.29,Jengibre sazón2025-08-12,Kilo,Kilo,1200.0,1300.0,1200.0
+Jengibre sazón,2025-08-13,1214.29,Jengibre sazón2025-08-13,Kilo,Kilo,1100.0,1300.0,1200.0
+Jengibre sazón,2025-08-14,1222.22,Jengibre sazón2025-08-14,Kilo,Kilo,1100.0,1300.0,1200.0
+Jengibre sazón,2025-08-15,1218.18,Jengibre sazón2025-08-15,Kilo,Kilo,1100.0,1300.0,1200.0
+Jengibre sazón,2025-08-18,1137.5,Jengibre sazón2025-08-18,Kilo,Kilo,1000.0,1300.0,1200.0
+Jengibre sazón,2025-08-19,1220.0,Jengibre sazón2025-08-19,Kilo,Kilo,1200.0,1300.0,1200.0
+Jocote tronador primera Caja plástica (27,2025-08-01,35000.0,Jocote tronador primera Caja plástica (272025-08-01,kg),kg),35000.0,35000.0,35000.0
+Jocote tronador primera Caja plástica (27,2025-08-04,35000.0,Jocote tronador primera Caja plástica (272025-08-04,kg),kg),35000.0,35000.0,35000.0
+Jocote tronador primera Caja plástica (27,2025-08-08,26875.0,Jocote tronador primera Caja plástica (272025-08-08,kg),kg),25000.0,30000.0,25000.0
+Jocote tronador primera Caja plástica (27,2025-08-11,26666.67,Jocote tronador primera Caja plástica (272025-08-11,kg),kg),25000.0,30000.0,25000.0
+Jocote tronador primera Caja plástica (27,2025-08-12,23750.0,Jocote tronador primera Caja plástica (272025-08-12,kg),kg),20000.0,25000.0,25000.0
+Jocote tronador primera Caja plástica (27,2025-08-13,21833.33,Jocote tronador primera Caja plástica (272025-08-13,kg),kg),20000.0,25000.0,22000.0
+Jocote tronador primera Caja plástica (27,2025-08-14,25000.0,Jocote tronador primera Caja plástica (272025-08-14,kg),kg),25000.0,25000.0,25000.0
+Jocote tronador primera Caja plástica (27,2025-08-15,23333.33,Jocote tronador primera Caja plástica (272025-08-15,kg),kg),20000.0,25000.0,25000.0
+Jocote tronador primera Caja plástica (27,2025-08-19,23333.33,Jocote tronador primera Caja plástica (272025-08-19,kg),kg),20000.0,25000.0,25000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-08,48750.0,Jocote tronador seleccionado Caja plástica (272025-08-08,kg),kg),40000.0,55000.0,50000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-11,40000.0,Jocote tronador seleccionado Caja plástica (272025-08-11,kg),kg),40000.0,40000.0,40000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-12,46666.67,Jocote tronador seleccionado Caja plástica (272025-08-12,kg),kg),40000.0,50000.0,50000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-13,44285.71,Jocote tronador seleccionado Caja plástica (272025-08-13,kg),kg),35000.0,50000.0,45000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-14,38333.33,Jocote tronador seleccionado Caja plástica (272025-08-14,kg),kg),35000.0,40000.0,40000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-15,41666.67,Jocote tronador seleccionado Caja plástica (272025-08-15,kg),kg),40000.0,45000.0,40000.0
+Jocote tronador seleccionado Caja plástica (27,2025-08-19,53333.33,Jocote tronador seleccionado Caja plástica (272025-08-19,kg),kg),50000.0,60000.0,50000.0
+Lechuga Americana,2025-08-01,232.5,Lechuga Americana2025-08-01,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-04,232.0,Lechuga Americana2025-08-04,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-05,227.27,Lechuga Americana2025-08-05,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-06,233.33,Lechuga Americana2025-08-06,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-07,233.33,Lechuga Americana2025-08-07,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-08,216.67,Lechuga Americana2025-08-08,Unidad,Unidad,200.0,250.0,200.0
+Lechuga Americana,2025-08-11,228.13,Lechuga Americana2025-08-11,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-12,233.33,Lechuga Americana2025-08-12,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-13,229.41,Lechuga Americana2025-08-13,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-14,233.33,Lechuga Americana2025-08-14,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-15,227.27,Lechuga Americana2025-08-15,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-18,226.56,Lechuga Americana2025-08-18,Unidad,Unidad,200.0,250.0,250.0
+Lechuga Americana,2025-08-19,228.85,Lechuga Americana2025-08-19,Unidad,Unidad,200.0,250.0,250.0
+Limón dulce,2025-08-01,191.67,Limón dulce2025-08-01,Unidad,Unidad,150.0,250.0,200.0
+Limón dulce,2025-08-04,192.86,Limón dulce2025-08-04,Unidad,Unidad,150.0,200.0,200.0
+Limón dulce,2025-08-08,178.57,Limón dulce2025-08-08,Unidad,Unidad,150.0,200.0,200.0
+Limón dulce,2025-08-11,233.33,Limón dulce2025-08-11,Unidad,Unidad,200.0,250.0,250.0
+Limón dulce,2025-08-13,150.0,Limón dulce2025-08-13,Unidad,Unidad,100.0,200.0,150.0
+Limón dulce,2025-08-15,216.67,Limón dulce2025-08-15,Unidad,Unidad,200.0,250.0,200.0
+Limón dulce,2025-08-18,140.0,Limón dulce2025-08-18,Unidad,Unidad,120.0,150.0,150.0
+Limón mandarina,2025-08-01,62.5,Limón mandarina2025-08-01,Unidad,Unidad,60.0,70.0,60.0
+Limón mandarina,2025-08-04,62.31,Limón mandarina2025-08-04,Unidad,Unidad,60.0,70.0,60.0
+Limón mandarina,2025-08-05,55.56,Limón mandarina2025-08-05,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-06,56.36,Limón mandarina2025-08-06,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-07,56.36,Limón mandarina2025-08-07,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-08,56.92,Limón mandarina2025-08-08,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-11,62.22,Limón mandarina2025-08-11,Unidad,Unidad,60.0,70.0,60.0
+Limón mandarina,2025-08-12,54.62,Limón mandarina2025-08-12,Unidad,Unidad,50.0,60.0,50.0
+Limón mandarina,2025-08-13,57.69,Limón mandarina2025-08-13,Unidad,Unidad,50.0,70.0,60.0
+Limón mandarina,2025-08-14,57.5,Limón mandarina2025-08-14,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-15,56.67,Limón mandarina2025-08-15,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-18,55.38,Limón mandarina2025-08-18,Unidad,Unidad,50.0,60.0,60.0
+Limón mandarina,2025-08-19,56.67,Limón mandarina2025-08-19,Unidad,Unidad,50.0,60.0,60.0
+Limón mesino,2025-08-01,62.0,Limón mesino2025-08-01,Unidad,Unidad,60.0,70.0,60.0
+Limón mesino,2025-08-04,63.0,Limón mesino2025-08-04,Unidad,Unidad,60.0,70.0,60.0
+Limón mesino,2025-08-05,55.56,Limón mesino2025-08-05,Unidad,Unidad,50.0,60.0,60.0
+Limón mesino,2025-08-06,57.27,Limón mesino2025-08-06,Unidad,Unidad,50.0,60.0,60.0
+Limón mesino,2025-08-07,58.18,Limón mesino2025-08-07,Unidad,Unidad,50.0,70.0,60.0
+Limón mesino,2025-08-08,58.33,Limón mesino2025-08-08,Unidad,Unidad,50.0,70.0,60.0
+Limón mesino,2025-08-11,62.22,Limón mesino2025-08-11,Unidad,Unidad,60.0,70.0,60.0
+Limón mesino,2025-08-12,53.08,Limón mesino2025-08-12,Unidad,Unidad,50.0,60.0,50.0
+Limón mesino,2025-08-13,58.18,Limón mesino2025-08-13,Unidad,Unidad,50.0,70.0,60.0
+Limón mesino,2025-08-14,57.14,Limón mesino2025-08-14,Unidad,Unidad,50.0,60.0,60.0
+Limón mesino,2025-08-15,57.14,Limón mesino2025-08-15,Unidad,Unidad,50.0,60.0,60.0
+Limón mesino,2025-08-18,54.17,Limón mesino2025-08-18,Unidad,Unidad,50.0,60.0,50.0
+Limón mesino,2025-08-19,56.67,Limón mesino2025-08-19,Unidad,Unidad,50.0,60.0,60.0
+Mamón chino injertado,2025-08-01,1440.0,Mamón chino injertado2025-08-01,Kilo,Kilo,1300.0,1500.0,1500.0
+Mamón chino injertado,2025-08-04,1466.67,Mamón chino injertado2025-08-04,Kilo,Kilo,1300.0,1500.0,1500.0
+Mamón chino injertado,2025-08-05,1340.0,Mamón chino injertado2025-08-05,Kilo,Kilo,1200.0,1500.0,1400.0
+Mamón chino injertado,2025-08-06,1375.0,Mamón chino injertado2025-08-06,Kilo,Kilo,1300.0,1400.0,1400.0
+Mamón chino injertado,2025-08-07,1411.11,Mamón chino injertado2025-08-07,Kilo,Kilo,1300.0,1500.0,1400.0
+Mamón chino injertado,2025-08-08,1305.56,Mamón chino injertado2025-08-08,Kilo,Kilo,1200.0,1400.0,1300.0
+Mamón chino injertado,2025-08-11,1275.0,Mamón chino injertado2025-08-11,Kilo,Kilo,1200.0,1300.0,1300.0
+Mamón chino injertado,2025-08-12,1342.86,Mamón chino injertado2025-08-12,Kilo,Kilo,1300.0,1400.0,1300.0
+Mamón chino injertado,2025-08-13,1333.33,Mamón chino injertado2025-08-13,Kilo,Kilo,1200.0,1500.0,1300.0
+Mamón chino injertado,2025-08-14,1116.67,Mamón chino injertado2025-08-14,Kilo,Kilo,1000.0,1200.0,1200.0
+Mamón chino injertado,2025-08-15,1180.0,Mamón chino injertado2025-08-15,Kilo,Kilo,1000.0,1300.0,1200.0
+Mamón chino injertado,2025-08-18,957.14,Mamón chino injertado2025-08-18,Kilo,Kilo,900.0,1000.0,1000.0
+Mamón chino injertado,2025-08-19,1066.67,Mamón chino injertado2025-08-19,Kilo,Kilo,1000.0,1200.0,1000.0
+Mandarina primera,2025-08-01,200.0,Mandarina primera2025-08-01,Unidad,Unidad,200.0,200.0,200.0
+Mandarina primera,2025-08-04,202.5,Mandarina primera2025-08-04,Unidad,Unidad,200.0,220.0,200.0
+Mandarina primera,2025-08-05,206.67,Mandarina primera2025-08-05,Unidad,Unidad,200.0,220.0,200.0
+Mandarina primera,2025-08-06,202.73,Mandarina primera2025-08-06,Unidad,Unidad,200.0,220.0,200.0
+Mandarina primera,2025-08-07,214.0,Mandarina primera2025-08-07,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-08,221.43,Mandarina primera2025-08-08,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-11,212.5,Mandarina primera2025-08-11,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-12,200.0,Mandarina primera2025-08-12,Unidad,Unidad,200.0,200.0,200.0
+Mandarina primera,2025-08-13,212.5,Mandarina primera2025-08-13,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-14,200.0,Mandarina primera2025-08-14,Unidad,Unidad,200.0,200.0,200.0
+Mandarina primera,2025-08-15,216.67,Mandarina primera2025-08-15,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-18,212.5,Mandarina primera2025-08-18,Unidad,Unidad,200.0,250.0,200.0
+Mandarina primera,2025-08-19,193.75,Mandarina primera2025-08-19,Unidad,Unidad,150.0,200.0,200.0
+Mandarina segunda,2025-08-01,160.0,Mandarina segunda2025-08-01,Unidad,Unidad,150.0,180.0,150.0
+Mandarina segunda,2025-08-04,156.0,Mandarina segunda2025-08-04,Unidad,Unidad,150.0,180.0,150.0
+Mandarina segunda,2025-08-05,160.0,Mandarina segunda2025-08-05,Unidad,Unidad,150.0,180.0,150.0
+Mandarina segunda,2025-08-06,155.0,Mandarina segunda2025-08-06,Unidad,Unidad,150.0,170.0,150.0
+Mandarina segunda,2025-08-07,151.25,Mandarina segunda2025-08-07,Unidad,Unidad,150.0,160.0,150.0
+Mandarina segunda,2025-08-08,158.33,Mandarina segunda2025-08-08,Unidad,Unidad,150.0,200.0,150.0
+Mandarina segunda,2025-08-11,162.5,Mandarina segunda2025-08-11,Unidad,Unidad,150.0,200.0,150.0
+Mandarina segunda,2025-08-12,130.0,Mandarina segunda2025-08-12,Unidad,Unidad,100.0,150.0,150.0
+Mandarina segunda,2025-08-13,162.5,Mandarina segunda2025-08-13,Unidad,Unidad,150.0,200.0,150.0
+Mandarina segunda,2025-08-14,153.33,Mandarina segunda2025-08-14,Unidad,Unidad,150.0,170.0,150.0
+Mandarina segunda,2025-08-15,150.0,Mandarina segunda2025-08-15,Unidad,Unidad,150.0,150.0,150.0
+Mandarina segunda,2025-08-18,156.25,Mandarina segunda2025-08-18,Unidad,Unidad,150.0,200.0,150.0
+Mandarina segunda,2025-08-19,142.86,Mandarina segunda2025-08-19,Unidad,Unidad,100.0,150.0,150.0
+Manga grande Cavallini Caja plástica (17,2025-08-08,19200.0,Manga grande Cavallini Caja plástica (172025-08-08,kg),kg),18000.0,20000.0,20000.0
+Manga grande Cavallini Caja plástica (17,2025-08-11,23571.43,Manga grande Cavallini Caja plástica (172025-08-11,kg),kg),23000.0,25000.0,23000.0
+Manga grande Cavallini Caja plástica (17,2025-08-12,18666.67,Manga grande Cavallini Caja plástica (172025-08-12,kg),kg),18000.0,20000.0,18000.0
+Manga grande Cavallini Caja plástica (17,2025-08-13,22714.29,Manga grande Cavallini Caja plástica (172025-08-13,kg),kg),20000.0,25000.0,23000.0
+Manga grande Cavallini Caja plástica (17,2025-08-14,21800.0,Manga grande Cavallini Caja plástica (172025-08-14,kg),kg),20000.0,23000.0,23000.0
+Manga grande Cavallini Caja plástica (17,2025-08-18,19200.0,Manga grande Cavallini Caja plástica (172025-08-18,kg),kg),18000.0,20000.0,20000.0
+Manga grande Cavallini Caja plástica (17,2025-08-19,23833.33,Manga grande Cavallini Caja plástica (172025-08-19,kg),kg),23000.0,25000.0,23000.0
+Manga grande Keitt Caja plástica (17,2025-08-01,10000.0,Manga grande Keitt Caja plástica (172025-08-01,kg),kg),10000.0,10000.0,10000.0
+Manga grande Keitt Caja plástica (17,2025-08-04,10125.0,Manga grande Keitt Caja plástica (172025-08-04,kg),kg),10000.0,11000.0,10000.0
+Manga grande Keitt Caja plástica (17,2025-08-06,12333.33,Manga grande Keitt Caja plástica (172025-08-06,kg),kg),12000.0,13000.0,12000.0
+Manga grande Keitt Caja plástica (17,2025-08-07,11400.0,Manga grande Keitt Caja plástica (172025-08-07,kg),kg),10000.0,12000.0,12000.0
+Manga grande Keitt Caja plástica (17,2025-08-08,10250.0,Manga grande Keitt Caja plástica (172025-08-08,kg),kg),9000.0,12000.0,10000.0
+Manga grande Keitt Caja plástica (17,2025-08-11,16400.0,Manga grande Keitt Caja plástica (172025-08-11,kg),kg),16000.0,17000.0,16000.0
+Manga grande Keitt Caja plástica (17,2025-08-12,14500.0,Manga grande Keitt Caja plástica (172025-08-12,kg),kg),13000.0,16000.0,15000.0
+Manga grande Keitt Caja plástica (17,2025-08-14,14600.0,Manga grande Keitt Caja plástica (172025-08-14,kg),kg),13000.0,15000.0,15000.0
+Manga grande Keitt Caja plástica (17,2025-08-15,14666.67,Manga grande Keitt Caja plástica (172025-08-15,kg),kg),14000.0,15000.0,15000.0
+Manga grande Keitt Caja plástica (17,2025-08-18,12750.0,Manga grande Keitt Caja plástica (172025-08-18,kg),kg),10000.0,15000.0,13000.0
+Manga grande Keitt Caja plástica (17,2025-08-19,12666.67,Manga grande Keitt Caja plástica (172025-08-19,kg),kg),12000.0,14000.0,12000.0
+Manga grande Tommy Caja plástica (17,2025-08-01,13000.0,Manga grande Tommy Caja plástica (172025-08-01,kg),kg),12000.0,15000.0,12000.0
+Manga grande Tommy Caja plástica (17,2025-08-04,12375.0,Manga grande Tommy Caja plástica (172025-08-04,kg),kg),12000.0,14000.0,12000.0
+Manga grande Tommy Caja plástica (17,2025-08-05,15600.0,Manga grande Tommy Caja plástica (172025-08-05,kg),kg),15000.0,17000.0,15000.0
+Manga grande Tommy Caja plástica (17,2025-08-06,15375.0,Manga grande Tommy Caja plástica (172025-08-06,kg),kg),15000.0,16000.0,15000.0
+Manga grande Tommy Caja plástica (17,2025-08-07,14500.0,Manga grande Tommy Caja plástica (172025-08-07,kg),kg),13000.0,15000.0,15000.0
+Manga grande Tommy Caja plástica (17,2025-08-08,14428.57,Manga grande Tommy Caja plástica (172025-08-08,kg),kg),13000.0,16000.0,15000.0
+Manga grande Tommy Caja plástica (17,2025-08-11,19333.33,Manga grande Tommy Caja plástica (172025-08-11,kg),kg),18000.0,20000.0,20000.0
+Manga grande Tommy Caja plástica (17,2025-08-12,15833.33,Manga grande Tommy Caja plástica (172025-08-12,kg),kg),15000.0,18000.0,15000.0
+Manga grande Tommy Caja plástica (17,2025-08-13,18000.0,Manga grande Tommy Caja plástica (172025-08-13,kg),kg),15000.0,20000.0,18000.0
+Manga grande Tommy Caja plástica (17,2025-08-14,18200.0,Manga grande Tommy Caja plástica (172025-08-14,kg),kg),17000.0,20000.0,18000.0
+Manga grande Tommy Caja plástica (17,2025-08-15,19500.0,Manga grande Tommy Caja plástica (172025-08-15,kg),kg),18000.0,20000.0,20000.0
+Manga grande Tommy Caja plástica (17,2025-08-18,17833.33,Manga grande Tommy Caja plástica (172025-08-18,kg),kg),15000.0,20000.0,20000.0
+Manga grande Tommy Caja plástica (17,2025-08-19,16800.0,Manga grande Tommy Caja plástica (172025-08-19,kg),kg),15000.0,18000.0,18000.0
+Manzana Anna de Costa Rica,2025-08-01,1500.0,Manzana Anna de Costa Rica2025-08-01,Kilo,Kilo,1500.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-06,1500.0,Manzana Anna de Costa Rica2025-08-06,Kilo,Kilo,1500.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-08,1500.0,Manzana Anna de Costa Rica2025-08-08,Kilo,Kilo,1500.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-11,1500.0,Manzana Anna de Costa Rica2025-08-11,Kilo,Kilo,1500.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-13,1400.0,Manzana Anna de Costa Rica2025-08-13,Kilo,Kilo,1200.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-15,1500.0,Manzana Anna de Costa Rica2025-08-15,Kilo,Kilo,1500.0,1500.0,1500.0
+Manzana Anna de Costa Rica,2025-08-18,1500.0,Manzana Anna de Costa Rica2025-08-18,Kilo,Kilo,1500.0,1500.0,1500.0
+Maracuyá,2025-08-01,1150.0,Maracuyá2025-08-01,Kilo,Kilo,1000.0,1200.0,1200.0
+Maracuyá,2025-08-04,1133.33,Maracuyá2025-08-04,Kilo,Kilo,1000.0,1200.0,1200.0
+Maracuyá,2025-08-06,1066.67,Maracuyá2025-08-06,Kilo,Kilo,1000.0,1200.0,1000.0
+Maracuyá,2025-08-08,1133.33,Maracuyá2025-08-08,Kilo,Kilo,1000.0,1200.0,1200.0
+Maracuyá,2025-08-11,1260.0,Maracuyá2025-08-11,Kilo,Kilo,1200.0,1400.0,1200.0
+Maracuyá,2025-08-13,1114.29,Maracuyá2025-08-13,Kilo,Kilo,1000.0,1200.0,1200.0
+Maracuyá,2025-08-15,1160.0,Maracuyá2025-08-15,Kilo,Kilo,1000.0,1200.0,1200.0
+Maracuyá,2025-08-18,1050.0,Maracuyá2025-08-18,Kilo,Kilo,1000.0,1200.0,1000.0
+Melón Cantaloupe,2025-08-01,740.0,Melón Cantaloupe2025-08-01,Kilo,Kilo,700.0,800.0,700.0
+Melón Cantaloupe,2025-08-04,772.73,Melón Cantaloupe2025-08-04,Kilo,Kilo,700.0,900.0,800.0
+Melón Cantaloupe,2025-08-05,675.0,Melón Cantaloupe2025-08-05,Kilo,Kilo,600.0,800.0,700.0
+Melón Cantaloupe,2025-08-06,636.36,Melón Cantaloupe2025-08-06,Kilo,Kilo,600.0,750.0,600.0
+Melón Cantaloupe,2025-08-07,712.5,Melón Cantaloupe2025-08-07,Kilo,Kilo,650.0,800.0,700.0
+Melón Cantaloupe,2025-08-08,709.09,Melón Cantaloupe2025-08-08,Kilo,Kilo,600.0,800.0,700.0
+Melón Cantaloupe,2025-08-11,675.0,Melón Cantaloupe2025-08-11,Kilo,Kilo,600.0,750.0,700.0
+Melón Cantaloupe,2025-08-12,687.5,Melón Cantaloupe2025-08-12,Kilo,Kilo,650.0,700.0,700.0
+Melón Cantaloupe,2025-08-13,657.14,Melón Cantaloupe2025-08-13,Kilo,Kilo,600.0,700.0,700.0
+Melón Cantaloupe,2025-08-14,728.57,Melón Cantaloupe2025-08-14,Kilo,Kilo,700.0,800.0,700.0
+Melón Cantaloupe,2025-08-15,780.0,Melón Cantaloupe2025-08-15,Kilo,Kilo,750.0,800.0,800.0
+Melón Cantaloupe,2025-08-18,704.55,Melón Cantaloupe2025-08-18,Kilo,Kilo,600.0,800.0,700.0
+Melón Cantaloupe,2025-08-19,707.14,Melón Cantaloupe2025-08-19,Kilo,Kilo,650.0,750.0,700.0
+Mora congelada,2025-08-01,2000.0,Mora congelada2025-08-01,Kilo,Kilo,2000.0,2000.0,2000.0
+Mora congelada,2025-08-04,1950.0,Mora congelada2025-08-04,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-06,1960.0,Mora congelada2025-08-06,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-08,1966.67,Mora congelada2025-08-08,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-11,1966.67,Mora congelada2025-08-11,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-13,1942.86,Mora congelada2025-08-13,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-15,1966.67,Mora congelada2025-08-15,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora congelada,2025-08-18,1914.29,Mora congelada2025-08-18,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora fresca,2025-08-01,2000.0,Mora fresca2025-08-01,Kilo,Kilo,2000.0,2000.0,2000.0
+Mora fresca,2025-08-04,1950.0,Mora fresca2025-08-04,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora fresca,2025-08-06,1960.0,Mora fresca2025-08-06,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora fresca,2025-08-08,2000.0,Mora fresca2025-08-08,Kilo,Kilo,2000.0,2000.0,2000.0
+Mora fresca,2025-08-11,1966.67,Mora fresca2025-08-11,Kilo,Kilo,1800.0,2000.0,2000.0
+Mora fresca,2025-08-13,2000.0,Mora fresca2025-08-13,Kilo,Kilo,2000.0,2000.0,2000.0
+Mora fresca,2025-08-15,2000.0,Mora fresca2025-08-15,Kilo,Kilo,2000.0,2000.0,2000.0
+Mora fresca,2025-08-18,1971.43,Mora fresca2025-08-18,Kilo,Kilo,1800.0,2000.0,2000.0
+Nance,2025-08-08,1933.33,Nance2025-08-08,Kilo,Kilo,1800.0,2000.0,2000.0
+Nance,2025-08-11,1800.0,Nance2025-08-11,Kilo,Kilo,1800.0,1800.0,1800.0
+Nance,2025-08-13,1733.33,Nance2025-08-13,Kilo,Kilo,1600.0,1800.0,1800.0
+Nance,2025-08-18,1775.0,Nance2025-08-18,Kilo,Kilo,1500.0,2000.0,1800.0
+Naranja dulce,2025-08-01,121.0,Naranja dulce2025-08-01,Unidad,Unidad,110.0,130.0,120.0
+Naranja dulce,2025-08-04,121.82,Naranja dulce2025-08-04,Unidad,Unidad,120.0,130.0,120.0
+Naranja dulce,2025-08-05,114.55,Naranja dulce2025-08-05,Unidad,Unidad,100.0,130.0,120.0
+Naranja dulce,2025-08-06,119.23,Naranja dulce2025-08-06,Unidad,Unidad,100.0,130.0,120.0
+Naranja dulce,2025-08-07,129.09,Naranja dulce2025-08-07,Unidad,Unidad,120.0,140.0,130.0
+Naranja dulce,2025-08-08,115.42,Naranja dulce2025-08-08,Unidad,Unidad,100.0,130.0,120.0
+Naranja dulce,2025-08-11,115.56,Naranja dulce2025-08-11,Unidad,Unidad,100.0,130.0,120.0
+Naranja dulce,2025-08-12,112.5,Naranja dulce2025-08-12,Unidad,Unidad,100.0,130.0,120.0
+Naranja dulce,2025-08-13,111.43,Naranja dulce2025-08-13,Unidad,Unidad,100.0,120.0,120.0
+Naranja dulce,2025-08-14,124.17,Naranja dulce2025-08-14,Unidad,Unidad,120.0,130.0,120.0
+Naranja dulce,2025-08-15,123.33,Naranja dulce2025-08-15,Unidad,Unidad,120.0,130.0,120.0
+Naranja dulce,2025-08-18,110.91,Naranja dulce2025-08-18,Unidad,Unidad,100.0,120.0,120.0
+Naranja dulce,2025-08-19,112.73,Naranja dulce2025-08-19,Unidad,Unidad,100.0,130.0,120.0
+Naranjilla,2025-08-01,1533.33,Naranjilla2025-08-01,Kilo,Kilo,1500.0,1600.0,1500.0
+Naranjilla,2025-08-04,1500.0,Naranjilla2025-08-04,Kilo,Kilo,1400.0,1600.0,1500.0
+Naranjilla,2025-08-06,1520.0,Naranjilla2025-08-06,Kilo,Kilo,1500.0,1600.0,1500.0
+Naranjilla,2025-08-08,1525.0,Naranjilla2025-08-08,Kilo,Kilo,1500.0,1600.0,1500.0
+Naranjilla,2025-08-11,1500.0,Naranjilla2025-08-11,Kilo,Kilo,1500.0,1500.0,1500.0
+Naranjilla,2025-08-13,1500.0,Naranjilla2025-08-13,Kilo,Kilo,1500.0,1500.0,1500.0
+Naranjilla,2025-08-15,1480.0,Naranjilla2025-08-15,Kilo,Kilo,1400.0,1500.0,1500.0
+Naranjilla,2025-08-18,1471.43,Naranjilla2025-08-18,Kilo,Kilo,1400.0,1500.0,1500.0
+Papa amarilla primera Malla (45,2025-08-01,20041.67,Papa amarilla primera Malla (452025-08-01,kg),kg),18000.0,23000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-04,21967.74,Papa amarilla primera Malla (452025-08-04,kg),kg),20000.0,25000.0,22000.0
+Papa amarilla primera Malla (45,2025-08-05,21892.86,Papa amarilla primera Malla (452025-08-05,kg),kg),20000.0,25000.0,22000.0
+Papa amarilla primera Malla (45,2025-08-06,20730.77,Papa amarilla primera Malla (452025-08-06,kg),kg),20000.0,23000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-07,19541.67,Papa amarilla primera Malla (452025-08-07,kg),kg),18000.0,22000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-08,19419.35,Papa amarilla primera Malla (452025-08-08,kg),kg),18000.0,22000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-11,18606.06,Papa amarilla primera Malla (452025-08-11,kg),kg),18000.0,22000.0,18000.0
+Papa amarilla primera Malla (45,2025-08-12,19470.59,Papa amarilla primera Malla (452025-08-12,kg),kg),18000.0,22000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-13,19714.29,Papa amarilla primera Malla (452025-08-13,kg),kg),18000.0,22000.0,20000.0
+Papa amarilla primera Malla (45,2025-08-14,21914.29,Papa amarilla primera Malla (452025-08-14,kg),kg),20000.0,25000.0,22000.0
+Papa amarilla primera Malla (45,2025-08-15,22536.59,Papa amarilla primera Malla (452025-08-15,kg),kg),20000.0,25000.0,23000.0
+Papa amarilla primera Malla (45,2025-08-18,27920.0,Papa amarilla primera Malla (452025-08-18,kg),kg),26000.0,30000.0,28000.0
+Papa amarilla primera Malla (45,2025-08-19,31921.57,Papa amarilla primera Malla (452025-08-19,kg),kg),28000.0,35000.0,33000.0
+Papa blanca primera Malla (45,2025-08-01,20238.1,Papa blanca primera Malla (452025-08-01,kg),kg),18000.0,23000.0,20000.0
+Papa blanca primera Malla (45,2025-08-04,21870.97,Papa blanca primera Malla (452025-08-04,kg),kg),20000.0,25000.0,22000.0
+Papa blanca primera Malla (45,2025-08-05,21892.86,Papa blanca primera Malla (452025-08-05,kg),kg),20000.0,25000.0,22000.0
+Papa blanca primera Malla (45,2025-08-06,20913.04,Papa blanca primera Malla (452025-08-06,kg),kg),20000.0,23000.0,20000.0
+Papa blanca primera Malla (45,2025-08-07,19761.9,Papa blanca primera Malla (452025-08-07,kg),kg),18000.0,22000.0,20000.0
+Papa blanca primera Malla (45,2025-08-08,19416.67,Papa blanca primera Malla (452025-08-08,kg),kg),18000.0,22000.0,20000.0
+Papa blanca primera Malla (45,2025-08-11,18606.06,Papa blanca primera Malla (452025-08-11,kg),kg),18000.0,22000.0,18000.0
+Papa blanca primera Malla (45,2025-08-12,19454.55,Papa blanca primera Malla (452025-08-12,kg),kg),18000.0,22000.0,20000.0
+Papa blanca primera Malla (45,2025-08-13,19615.38,Papa blanca primera Malla (452025-08-13,kg),kg),18000.0,22000.0,20000.0
+Papa blanca primera Malla (45,2025-08-14,21970.59,Papa blanca primera Malla (452025-08-14,kg),kg),20000.0,25000.0,22000.0
+Papa blanca primera Malla (45,2025-08-15,22414.63,Papa blanca primera Malla (452025-08-15,kg),kg),20000.0,25000.0,23000.0
+Papa blanca primera Malla (45,2025-08-18,27611.11,Papa blanca primera Malla (452025-08-18,kg),kg),26000.0,30000.0,28000.0
+Papa blanca primera Malla (45,2025-08-19,32045.45,Papa blanca primera Malla (452025-08-19,kg),kg),28000.0,35000.0,33000.0
+Papa polilla Malla (45,2025-04-08,4555.56,Papa polilla Malla (452025-04-08,kg),kg),4000.0,5000.0,5000.0
+Papa polilla Malla (45,2025-06-08,4950.0,Papa polilla Malla (452025-06-08,kg),kg),4000.0,6000.0,5000.0
+Papa polilla Malla (45,2025-08-01,4285.71,Papa polilla Malla (452025-08-01,kg),kg),4000.0,5000.0,4000.0
+Papa polilla Malla (45,2025-08-04,4555.56,Papa polilla Malla (452025-08-04,kg),kg),4000.0,5000.0,5000.0
+Papa polilla Malla (45,2025-08-06,4950.0,Papa polilla Malla (452025-08-06,kg),kg),4000.0,6000.0,5000.0
+Papa polilla Malla (45,2025-08-08,4333.33,Papa polilla Malla (452025-08-08,kg),kg),4000.0,5000.0,4000.0
+Papa polilla Malla (45,2025-08-11,4263.16,Papa polilla Malla (452025-08-11,kg),kg),4000.0,5000.0,4000.0
+Papa polilla Malla (45,2025-08-13,4416.67,Papa polilla Malla (452025-08-13,kg),kg),4000.0,5000.0,4000.0
+Papa polilla Malla (45,2025-08-15,4833.33,Papa polilla Malla (452025-08-15,kg),kg),4000.0,6000.0,5000.0
+Papa polilla Malla (45,2025-08-18,5000.0,Papa polilla Malla (452025-08-18,kg),kg),4000.0,6000.0,5000.0
+Papa roja Malla (45,2025-08-06,16750.0,Papa roja Malla (452025-08-06,kg),kg),15000.0,18000.0,17000.0
+Papa roja Malla (45,2025-08-08,15000.0,Papa roja Malla (452025-08-08,kg),kg),14000.0,16000.0,15000.0
+Papa roja Malla (45,2025-08-11,15666.67,Papa roja Malla (452025-08-11,kg),kg),15000.0,18000.0,15000.0
+Papa roja Malla (45,2025-08-15,15166.67,Papa roja Malla (452025-08-15,kg),kg),15000.0,16000.0,15000.0
+Papa semilla Malla (45,2025-08-01,14888.89,Papa semilla Malla (452025-08-01,kg),kg),14000.0,17000.0,15000.0
+Papa semilla Malla (45,2025-08-04,15055.56,Papa semilla Malla (452025-08-04,kg),kg),14000.0,16000.0,15000.0
+Papa semilla Malla (45,2025-08-06,15260.87,Papa semilla Malla (452025-08-06,kg),kg),14000.0,17000.0,15000.0
+Papa semilla Malla (45,2025-08-08,15000.0,Papa semilla Malla (452025-08-08,kg),kg),14000.0,18000.0,15000.0
+Papa semilla Malla (45,2025-08-11,14777.78,Papa semilla Malla (452025-08-11,kg),kg),14000.0,16000.0,15000.0
+Papa semilla Malla (45,2025-08-13,15125.0,Papa semilla Malla (452025-08-13,kg),kg),14000.0,16000.0,15000.0
+Papa semilla Malla (45,2025-08-15,15240.0,Papa semilla Malla (452025-08-15,kg),kg),14000.0,18000.0,15000.0
+Papa semilla Malla (45,2025-08-18,19117.65,Papa semilla Malla (452025-08-18,kg),kg),17000.0,20000.0,20000.0
+Papa semillón Malla (45,2025-08-01,14888.89,Papa semillón Malla (452025-08-01,kg),kg),14000.0,17000.0,15000.0
+Papa semillón Malla (45,2025-08-04,15117.65,Papa semillón Malla (452025-08-04,kg),kg),14000.0,16000.0,15000.0
+Papa semillón Malla (45,2025-08-06,15090.91,Papa semillón Malla (452025-08-06,kg),kg),14000.0,17000.0,15000.0
+Papa semillón Malla (45,2025-08-08,14952.38,Papa semillón Malla (452025-08-08,kg),kg),14000.0,18000.0,15000.0
+Papa semillón Malla (45,2025-08-11,14714.29,Papa semillón Malla (452025-08-11,kg),kg),14000.0,16000.0,15000.0
+Papa semillón Malla (45,2025-08-13,14555.56,Papa semillón Malla (452025-08-13,kg),kg),14000.0,15000.0,15000.0
+Papa semillón Malla (45,2025-08-15,15470.59,Papa semillón Malla (452025-08-15,kg),kg),14000.0,18000.0,15000.0
+Papa semillón Malla (45,2025-08-18,18181.82,Papa semillón Malla (452025-08-18,kg),kg),17000.0,20000.0,18000.0
+Papaya híbrida,2025-08-01,358.33,Papaya híbrida2025-08-01,Kilo,Kilo,300.0,400.0,350.0
+Papaya híbrida,2025-08-04,390.91,Papaya híbrida2025-08-04,Kilo,Kilo,350.0,450.0,400.0
+Papaya híbrida,2025-08-05,454.55,Papaya híbrida2025-08-05,Kilo,Kilo,400.0,500.0,500.0
+Papaya híbrida,2025-08-06,431.25,Papaya híbrida2025-08-06,Kilo,Kilo,400.0,500.0,400.0
+Papaya híbrida,2025-08-07,460.0,Papaya híbrida2025-08-07,Kilo,Kilo,400.0,500.0,450.0
+Papaya híbrida,2025-08-08,455.0,Papaya híbrida2025-08-08,Kilo,Kilo,400.0,500.0,500.0
+Papaya híbrida,2025-08-11,478.57,Papaya híbrida2025-08-11,Kilo,Kilo,400.0,500.0,500.0
+Papaya híbrida,2025-08-12,492.86,Papaya híbrida2025-08-12,Kilo,Kilo,450.0,550.0,500.0
+Papaya híbrida,2025-08-13,475.0,Papaya híbrida2025-08-13,Kilo,Kilo,400.0,550.0,500.0
+Papaya híbrida,2025-08-14,538.46,Papaya híbrida2025-08-14,Kilo,Kilo,500.0,600.0,500.0
+Papaya híbrida,2025-08-15,555.56,Papaya híbrida2025-08-15,Kilo,Kilo,500.0,600.0,550.0
+Papaya híbrida,2025-08-18,537.5,Papaya híbrida2025-08-18,Kilo,Kilo,500.0,600.0,500.0
+Papaya híbrida,2025-08-19,545.83,Papaya híbrida2025-08-19,Kilo,Kilo,500.0,600.0,550.0
+Pejibaye,2025-08-01,600.0,Pejibaye2025-08-01,Kilo,Kilo,500.0,700.0,600.0
+Pejibaye,2025-08-04,633.33,Pejibaye2025-08-04,Kilo,Kilo,600.0,700.0,600.0
+Pejibaye,2025-08-05,487.5,Pejibaye2025-08-05,Kilo,Kilo,400.0,600.0,400.0
+Pejibaye,2025-08-06,566.67,Pejibaye2025-08-06,Kilo,Kilo,500.0,600.0,600.0
+Pejibaye,2025-08-07,466.67,Pejibaye2025-08-07,Kilo,Kilo,400.0,500.0,500.0
+Pejibaye,2025-08-08,480.0,Pejibaye2025-08-08,Kilo,Kilo,400.0,500.0,500.0
+Pejibaye,2025-08-11,566.67,Pejibaye2025-08-11,Kilo,Kilo,500.0,600.0,600.0
+Pejibaye,2025-08-12,600.0,Pejibaye2025-08-12,Kilo,Kilo,600.0,600.0,600.0
+Pejibaye,2025-08-13,525.0,Pejibaye2025-08-13,Kilo,Kilo,500.0,600.0,500.0
+Pejibaye,2025-08-14,600.0,Pejibaye2025-08-14,Kilo,Kilo,600.0,600.0,600.0
+Pejibaye,2025-08-15,633.33,Pejibaye2025-08-15,Kilo,Kilo,600.0,700.0,600.0
+Pejibaye,2025-08-18,560.0,Pejibaye2025-08-18,Kilo,Kilo,500.0,700.0,500.0
+Pejibaye,2025-08-19,600.0,Pejibaye2025-08-19,Kilo,Kilo,500.0,800.0,500.0
+Pepino,2025-08-01,286.36,Pepino2025-08-01,Kilo,Kilo,250.0,300.0,300.0
+Pepino,2025-08-04,337.5,Pepino2025-08-04,Kilo,Kilo,300.0,400.0,300.0
+Pepino,2025-08-05,393.75,Pepino2025-08-05,Kilo,Kilo,350.0,400.0,400.0
+Pepino,2025-08-06,384.62,Pepino2025-08-06,Kilo,Kilo,350.0,400.0,400.0
+Pepino,2025-08-07,279.17,Pepino2025-08-07,Kilo,Kilo,250.0,350.0,250.0
+Pepino,2025-08-08,264.29,Pepino2025-08-08,Kilo,Kilo,250.0,300.0,250.0
+Pepino,2025-08-11,247.06,Pepino2025-08-11,Kilo,Kilo,200.0,300.0,250.0
+Pepino,2025-08-12,268.18,Pepino2025-08-12,Kilo,Kilo,250.0,300.0,250.0
+Pepino,2025-08-13,266.67,Pepino2025-08-13,Kilo,Kilo,250.0,300.0,250.0
+Pepino,2025-08-14,261.54,Pepino2025-08-14,Kilo,Kilo,200.0,300.0,250.0
+Pepino,2025-08-15,263.64,Pepino2025-08-15,Kilo,Kilo,250.0,300.0,250.0
+Pepino,2025-08-18,230.0,Pepino2025-08-18,Kilo,Kilo,200.0,250.0,250.0
+Pepino,2025-08-19,208.82,Pepino2025-08-19,Kilo,Kilo,150.0,250.0,200.0
+Pipa pelada,2025-08-01,321.43,Pipa pelada2025-08-01,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-04,318.18,Pipa pelada2025-08-04,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-06,327.78,Pipa pelada2025-08-06,Unidad,Unidad,300.0,350.0,350.0
+Pipa pelada,2025-08-08,311.11,Pipa pelada2025-08-08,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-11,318.75,Pipa pelada2025-08-11,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-13,318.75,Pipa pelada2025-08-13,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-15,314.29,Pipa pelada2025-08-15,Unidad,Unidad,300.0,350.0,300.0
+Pipa pelada,2025-08-18,300.0,Pipa pelada2025-08-18,Unidad,Unidad,300.0,300.0,300.0
+Pitahaya,2025-08-05,2316.67,Pitahaya2025-08-05,Kilo,Kilo,2000.0,2500.0,2300.0
+Pitahaya,2025-08-06,1950.0,Pitahaya2025-08-06,Kilo,Kilo,1800.0,2300.0,2000.0
+Pitahaya,2025-08-07,1925.0,Pitahaya2025-08-07,Kilo,Kilo,1800.0,2000.0,2000.0
+Pitahaya,2025-08-08,1781.82,Pitahaya2025-08-08,Kilo,Kilo,1500.0,2000.0,1800.0
+Pitahaya,2025-08-11,1933.33,Pitahaya2025-08-11,Kilo,Kilo,1800.0,2000.0,2000.0
+Pitahaya,2025-08-12,1820.0,Pitahaya2025-08-12,Kilo,Kilo,1700.0,2000.0,1700.0
+Pitahaya,2025-08-13,1820.0,Pitahaya2025-08-13,Kilo,Kilo,1700.0,2000.0,1800.0
+Pitahaya,2025-08-15,1700.0,Pitahaya2025-08-15,Kilo,Kilo,1600.0,1800.0,1700.0
+Pitahaya,2025-08-18,1655.56,Pitahaya2025-08-18,Kilo,Kilo,1500.0,1800.0,1700.0
+Pitahaya,2025-08-19,1642.86,Pitahaya2025-08-19,Kilo,Kilo,1500.0,1800.0,1700.0
+Piña - grande,2025-08-01,1260.0,Piña - grande2025-08-01,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-04,1266.67,Piña - grande2025-08-04,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-05,1307.69,Piña - grande2025-08-05,Unidad,Unidad,1200.0,1400.0,1300.0
+Piña - grande,2025-08-06,1333.33,Piña - grande2025-08-06,Unidad,Unidad,1300.0,1400.0,1300.0
+Piña - grande,2025-08-07,1316.67,Piña - grande2025-08-07,Unidad,Unidad,1300.0,1400.0,1300.0
+Piña - grande,2025-08-08,1266.67,Piña - grande2025-08-08,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-11,1233.33,Piña - grande2025-08-11,Unidad,Unidad,1200.0,1300.0,1200.0
+Piña - grande,2025-08-12,1242.86,Piña - grande2025-08-12,Unidad,Unidad,1200.0,1300.0,1200.0
+Piña - grande,2025-08-13,1270.0,Piña - grande2025-08-13,Unidad,Unidad,1200.0,1400.0,1300.0
+Piña - grande,2025-08-14,1257.14,Piña - grande2025-08-14,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-15,1275.0,Piña - grande2025-08-15,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-18,1262.5,Piña - grande2025-08-18,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - grande,2025-08-19,1260.0,Piña - grande2025-08-19,Unidad,Unidad,1200.0,1300.0,1300.0
+Piña - mediana,2025-08-01,957.14,Piña - mediana2025-08-01,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-04,971.43,Piña - mediana2025-08-04,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-05,980.0,Piña - mediana2025-08-05,Unidad,Unidad,800.0,1200.0,1000.0
+Piña - mediana,2025-08-06,1062.5,Piña - mediana2025-08-06,Unidad,Unidad,1000.0,1100.0,1100.0
+Piña - mediana,2025-08-07,1000.0,Piña - mediana2025-08-07,Unidad,Unidad,1000.0,1000.0,1000.0
+Piña - mediana,2025-08-08,987.5,Piña - mediana2025-08-08,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-11,941.67,Piña - mediana2025-08-11,Unidad,Unidad,900.0,1000.0,900.0
+Piña - mediana,2025-08-12,966.67,Piña - mediana2025-08-12,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-13,945.45,Piña - mediana2025-08-13,Unidad,Unidad,800.0,1000.0,1000.0
+Piña - mediana,2025-08-14,1020.0,Piña - mediana2025-08-14,Unidad,Unidad,1000.0,1100.0,1000.0
+Piña - mediana,2025-08-15,975.0,Piña - mediana2025-08-15,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-18,971.43,Piña - mediana2025-08-18,Unidad,Unidad,900.0,1000.0,1000.0
+Piña - mediana,2025-08-19,1040.0,Piña - mediana2025-08-19,Unidad,Unidad,1000.0,1100.0,1000.0
+Piña - pequeña,2025-08-01,775.0,Piña - pequeña2025-08-01,Unidad,Unidad,700.0,800.0,800.0
+Piña - pequeña,2025-08-04,771.43,Piña - pequeña2025-08-04,Unidad,Unidad,700.0,800.0,800.0
+Piña - pequeña,2025-08-05,718.18,Piña - pequeña2025-08-05,Unidad,Unidad,600.0,800.0,700.0
+Piña - pequeña,2025-08-06,842.86,Piña - pequeña2025-08-06,Unidad,Unidad,800.0,900.0,800.0
+Piña - pequeña,2025-08-07,816.67,Piña - pequeña2025-08-07,Unidad,Unidad,800.0,900.0,800.0
+Piña - pequeña,2025-08-08,742.86,Piña - pequeña2025-08-08,Unidad,Unidad,700.0,800.0,700.0
+Piña - pequeña,2025-08-11,737.5,Piña - pequeña2025-08-11,Unidad,Unidad,700.0,800.0,700.0
+Piña - pequeña,2025-08-12,757.14,Piña - pequeña2025-08-12,Unidad,Unidad,700.0,800.0,800.0
+Piña - pequeña,2025-08-13,741.67,Piña - pequeña2025-08-13,Unidad,Unidad,700.0,800.0,700.0
+Piña - pequeña,2025-08-14,860.0,Piña - pequeña2025-08-14,Unidad,Unidad,800.0,900.0,900.0
+Piña - pequeña,2025-08-15,758.33,Piña - pequeña2025-08-15,Unidad,Unidad,700.0,800.0,800.0
+Piña - pequeña,2025-08-18,628.57,Piña - pequeña2025-08-18,Unidad,Unidad,600.0,700.0,600.0
+Piña - pequeña,2025-08-19,825.0,Piña - pequeña2025-08-19,Unidad,Unidad,800.0,900.0,800.0
+Plátano maduro,2025-08-01,202.0,Plátano maduro2025-08-01,Unidad,Unidad,200.0,210.0,200.0
+Plátano maduro,2025-08-04,200.0,Plátano maduro2025-08-04,Unidad,Unidad,200.0,200.0,200.0
+Plátano maduro,2025-08-05,212.73,Plátano maduro2025-08-05,Unidad,Unidad,200.0,230.0,210.0
+Plátano maduro,2025-08-06,223.0,Plátano maduro2025-08-06,Unidad,Unidad,220.0,230.0,220.0
+Plátano maduro,2025-08-07,216.25,Plátano maduro2025-08-07,Unidad,Unidad,200.0,230.0,220.0
+Plátano maduro,2025-08-08,214.29,Plátano maduro2025-08-08,Unidad,Unidad,200.0,230.0,220.0
+Plátano maduro,2025-08-11,220.0,Plátano maduro2025-08-11,Unidad,Unidad,210.0,230.0,220.0
+Plátano maduro,2025-08-12,221.67,Plátano maduro2025-08-12,Unidad,Unidad,220.0,230.0,220.0
+Plátano maduro,2025-08-13,222.0,Plátano maduro2025-08-13,Unidad,Unidad,220.0,230.0,220.0
+Plátano maduro,2025-08-14,230.0,Plátano maduro2025-08-14,Unidad,Unidad,220.0,240.0,230.0
+Plátano maduro,2025-08-15,224.29,Plátano maduro2025-08-15,Unidad,Unidad,220.0,230.0,220.0
+Plátano maduro,2025-08-18,226.25,Plátano maduro2025-08-18,Unidad,Unidad,220.0,240.0,220.0
+Plátano maduro,2025-08-19,223.75,Plátano maduro2025-08-19,Unidad,Unidad,220.0,230.0,220.0
+Plátano verde,2025-08-01,202.5,Plátano verde2025-08-01,Unidad,Unidad,200.0,210.0,200.0
+Plátano verde,2025-08-04,200.0,Plátano verde2025-08-04,Unidad,Unidad,200.0,200.0,200.0
+Plátano verde,2025-08-05,212.73,Plátano verde2025-08-05,Unidad,Unidad,200.0,230.0,210.0
+Plátano verde,2025-08-06,223.0,Plátano verde2025-08-06,Unidad,Unidad,220.0,230.0,220.0
+Plátano verde,2025-08-07,218.75,Plátano verde2025-08-07,Unidad,Unidad,200.0,230.0,220.0
+Plátano verde,2025-08-08,215.71,Plátano verde2025-08-08,Unidad,Unidad,200.0,230.0,220.0
+Plátano verde,2025-08-11,220.0,Plátano verde2025-08-11,Unidad,Unidad,210.0,230.0,220.0
+Plátano verde,2025-08-12,221.43,Plátano verde2025-08-12,Unidad,Unidad,220.0,230.0,220.0
+Plátano verde,2025-08-13,222.0,Plátano verde2025-08-13,Unidad,Unidad,220.0,230.0,220.0
+Plátano verde,2025-08-14,230.0,Plátano verde2025-08-14,Unidad,Unidad,220.0,240.0,230.0
+Plátano verde,2025-08-15,224.29,Plátano verde2025-08-15,Unidad,Unidad,220.0,230.0,220.0
+Plátano verde,2025-08-18,225.71,Plátano verde2025-08-18,Unidad,Unidad,220.0,240.0,220.0
+Plátano verde,2025-08-19,223.75,Plátano verde2025-08-19,Unidad,Unidad,220.0,230.0,220.0
+Remolacha,2025-08-01,304.76,Remolacha2025-08-01,Unidad,Unidad,250.0,400.0,300.0
+Remolacha,2025-08-04,282.5,Remolacha2025-08-04,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-05,288.89,Remolacha2025-08-05,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-06,284.72,Remolacha2025-08-06,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-07,296.15,Remolacha2025-08-07,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-08,291.07,Remolacha2025-08-08,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-11,274.19,Remolacha2025-08-11,Unidad,Unidad,250.0,300.0,250.0
+Remolacha,2025-08-12,300.0,Remolacha2025-08-12,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-13,282.14,Remolacha2025-08-13,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-14,303.85,Remolacha2025-08-14,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-15,292.31,Remolacha2025-08-15,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-18,290.63,Remolacha2025-08-18,Unidad,Unidad,250.0,350.0,300.0
+Remolacha,2025-08-19,280.77,Remolacha2025-08-19,Unidad,Unidad,250.0,300.0,300.0
+Repollo morado,2025-08-01,800.0,Repollo morado2025-08-01,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-04,846.15,Repollo morado2025-08-04,Kilo,Kilo,800.0,1000.0,800.0
+Repollo morado,2025-08-05,821.43,Repollo morado2025-08-05,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-06,827.78,Repollo morado2025-08-06,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-07,864.29,Repollo morado2025-08-07,Kilo,Kilo,800.0,1000.0,800.0
+Repollo morado,2025-08-08,764.71,Repollo morado2025-08-08,Kilo,Kilo,700.0,800.0,800.0
+Repollo morado,2025-08-11,764.71,Repollo morado2025-08-11,Kilo,Kilo,700.0,900.0,800.0
+Repollo morado,2025-08-12,773.68,Repollo morado2025-08-12,Kilo,Kilo,700.0,900.0,800.0
+Repollo morado,2025-08-13,810.0,Repollo morado2025-08-13,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-14,791.3,Repollo morado2025-08-14,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-15,871.43,Repollo morado2025-08-15,Kilo,Kilo,800.0,1000.0,800.0
+Repollo morado,2025-08-18,817.65,Repollo morado2025-08-18,Kilo,Kilo,700.0,1000.0,800.0
+Repollo morado,2025-08-19,785.0,Repollo morado2025-08-19,Kilo,Kilo,700.0,900.0,800.0
+Repollo verde,2025-08-01,340.63,Repollo verde2025-08-01,Kilo,Kilo,300.0,400.0,350.0
+Repollo verde,2025-08-04,573.53,Repollo verde2025-08-04,Kilo,Kilo,500.0,700.0,500.0
+Repollo verde,2025-08-05,550.0,Repollo verde2025-08-05,Kilo,Kilo,500.0,650.0,500.0
+Repollo verde,2025-08-06,521.43,Repollo verde2025-08-06,Kilo,Kilo,450.0,600.0,500.0
+Repollo verde,2025-08-07,560.0,Repollo verde2025-08-07,Kilo,Kilo,500.0,600.0,600.0
+Repollo verde,2025-08-08,483.33,Repollo verde2025-08-08,Kilo,Kilo,400.0,550.0,500.0
+Repollo verde,2025-08-11,469.23,Repollo verde2025-08-11,Kilo,Kilo,450.0,500.0,450.0
+Repollo verde,2025-08-12,442.86,Repollo verde2025-08-12,Kilo,Kilo,400.0,500.0,400.0
+Repollo verde,2025-08-13,437.5,Repollo verde2025-08-13,Kilo,Kilo,400.0,500.0,400.0
+Repollo verde,2025-08-14,415.22,Repollo verde2025-08-14,Kilo,Kilo,350.0,500.0,400.0
+Repollo verde,2025-08-15,425.0,Repollo verde2025-08-15,Kilo,Kilo,400.0,500.0,400.0
+Repollo verde,2025-08-18,410.0,Repollo verde2025-08-18,Kilo,Kilo,350.0,500.0,400.0
+Repollo verde,2025-08-19,403.7,Repollo verde2025-08-19,Kilo,Kilo,350.0,500.0,400.0
+Sandía de campo - grande,2025-08-01,733.33,Sandía de campo - grande2025-08-01,Kilo,Kilo,700.0,800.0,700.0
+Sandía de campo - grande,2025-08-04,763.64,Sandía de campo - grande2025-08-04,Kilo,Kilo,700.0,800.0,800.0
+Sandía de campo - grande,2025-08-05,609.09,Sandía de campo - grande2025-08-05,Kilo,Kilo,600.0,700.0,600.0
+Sandía de campo - grande,2025-08-06,653.57,Sandía de campo - grande2025-08-06,Kilo,Kilo,600.0,700.0,700.0
+Sandía de campo - grande,2025-08-07,654.17,Sandía de campo - grande2025-08-07,Kilo,Kilo,600.0,700.0,650.0
+Sandía de campo - grande,2025-08-08,654.55,Sandía de campo - grande2025-08-08,Kilo,Kilo,600.0,700.0,650.0
+Sandía de campo - grande,2025-08-11,506.25,Sandía de campo - grande2025-08-11,Kilo,Kilo,500.0,550.0,500.0
+Sandía de campo - grande,2025-08-12,506.25,Sandía de campo - grande2025-08-12,Kilo,Kilo,450.0,550.0,500.0
+Sandía de campo - grande,2025-08-13,544.44,Sandía de campo - grande2025-08-13,Kilo,Kilo,450.0,600.0,600.0
+Sandía de campo - grande,2025-08-14,555.56,Sandía de campo - grande2025-08-14,Kilo,Kilo,500.0,600.0,600.0
+Sandía de campo - grande,2025-08-15,550.0,Sandía de campo - grande2025-08-15,Kilo,Kilo,500.0,600.0,550.0
+Sandía de campo - grande,2025-08-18,583.33,Sandía de campo - grande2025-08-18,Kilo,Kilo,500.0,650.0,600.0
+Sandía de campo - grande,2025-08-19,591.67,Sandía de campo - grande2025-08-19,Kilo,Kilo,550.0,650.0,600.0
+Sandía de campo - mediana,2025-08-01,600.0,Sandía de campo - mediana2025-08-01,Kilo,Kilo,500.0,700.0,600.0
+Sandía de campo - mediana,2025-08-04,622.73,Sandía de campo - mediana2025-08-04,Kilo,Kilo,600.0,650.0,600.0
+Sandía de campo - mediana,2025-08-05,440.91,Sandía de campo - mediana2025-08-05,Kilo,Kilo,400.0,500.0,400.0
+Sandía de campo - mediana,2025-08-06,455.56,Sandía de campo - mediana2025-08-06,Kilo,Kilo,400.0,500.0,500.0
+Sandía de campo - mediana,2025-08-07,483.33,Sandía de campo - mediana2025-08-07,Kilo,Kilo,450.0,500.0,500.0
+Sandía de campo - mediana,2025-08-08,482.14,Sandía de campo - mediana2025-08-08,Kilo,Kilo,400.0,600.0,500.0
+Sandía de campo - mediana,2025-08-11,411.11,Sandía de campo - mediana2025-08-11,Kilo,Kilo,400.0,450.0,400.0
+Sandía de campo - mediana,2025-08-12,400.0,Sandía de campo - mediana2025-08-12,Kilo,Kilo,350.0,450.0,400.0
+Sandía de campo - mediana,2025-08-13,413.64,Sandía de campo - mediana2025-08-13,Kilo,Kilo,350.0,450.0,400.0
+Sandía de campo - mediana,2025-08-14,435.71,Sandía de campo - mediana2025-08-14,Kilo,Kilo,400.0,500.0,400.0
+Sandía de campo - mediana,2025-08-15,425.0,Sandía de campo - mediana2025-08-15,Kilo,Kilo,400.0,500.0,400.0
+Sandía de campo - mediana,2025-08-18,435.0,Sandía de campo - mediana2025-08-18,Kilo,Kilo,400.0,500.0,400.0
+Sandía de campo - mediana,2025-08-19,444.44,Sandía de campo - mediana2025-08-19,Kilo,Kilo,400.0,500.0,400.0
+Sandía importada - grande,2025-08-01,641.67,Sandía importada - grande2025-08-01,Kilo,Kilo,600.0,700.0,600.0
+Sandía importada - grande,2025-08-04,630.0,Sandía importada - grande2025-08-04,Kilo,Kilo,600.0,700.0,600.0
+Sandía importada - grande,2025-08-05,575.0,Sandía importada - grande2025-08-05,Kilo,Kilo,500.0,600.0,600.0
+Sandía importada - grande,2025-08-06,557.14,Sandía importada - grande2025-08-06,Kilo,Kilo,500.0,600.0,600.0
+Sandía importada - grande,2025-08-07,546.43,Sandía importada - grande2025-08-07,Kilo,Kilo,500.0,600.0,550.0
+Sandía importada - grande,2025-08-08,522.22,Sandía importada - grande2025-08-08,Kilo,Kilo,450.0,600.0,500.0
+Sandía importada - grande,2025-08-11,500.0,Sandía importada - grande2025-08-11,Kilo,Kilo,500.0,500.0,500.0
+Sandía importada - grande,2025-08-12,425.0,Sandía importada - grande2025-08-12,Kilo,Kilo,400.0,500.0,400.0
+Sandía importada - grande,2025-08-13,471.43,Sandía importada - grande2025-08-13,Kilo,Kilo,400.0,550.0,500.0
+Sandía importada - grande,2025-08-14,440.0,Sandía importada - grande2025-08-14,Kilo,Kilo,400.0,500.0,400.0
+Sandía importada - mediana,2025-08-01,400.0,Sandía importada - mediana2025-08-01,Kilo,Kilo,400.0,400.0,400.0
+Sandía importada - mediana,2025-08-04,406.25,Sandía importada - mediana2025-08-04,Kilo,Kilo,400.0,450.0,400.0
+Sandía importada - mediana,2025-08-05,428.57,Sandía importada - mediana2025-08-05,Kilo,Kilo,400.0,500.0,400.0
+Sandía importada - mediana,2025-08-06,358.33,Sandía importada - mediana2025-08-06,Kilo,Kilo,300.0,400.0,400.0
+Sandía importada - mediana,2025-08-07,387.5,Sandía importada - mediana2025-08-07,Kilo,Kilo,350.0,400.0,400.0
+Sandía importada - mediana,2025-08-08,337.5,Sandía importada - mediana2025-08-08,Kilo,Kilo,300.0,400.0,350.0
+Sandía importada - mediana,2025-08-11,400.0,Sandía importada - mediana2025-08-11,Kilo,Kilo,400.0,400.0,400.0
+Sandía importada - mediana,2025-08-12,337.5,Sandía importada - mediana2025-08-12,Kilo,Kilo,300.0,350.0,350.0
+Sandía importada - mediana,2025-08-13,358.33,Sandía importada - mediana2025-08-13,Kilo,Kilo,300.0,400.0,400.0
+Sandía importada - mediana,2025-08-14,320.0,Sandía importada - mediana2025-08-14,Kilo,Kilo,300.0,400.0,300.0
+Suquini,2025-08-01,233.33,Suquini2025-08-01,Unidad,Unidad,200.0,250.0,250.0
+Suquini,2025-08-04,231.25,Suquini2025-08-04,Unidad,Unidad,200.0,250.0,250.0
+Tamarindo,2025-08-01,2000.0,Tamarindo2025-08-01,Kilo,Kilo,2000.0,2000.0,2000.0
+Tamarindo,2025-08-04,2000.0,Tamarindo2025-08-04,Kilo,Kilo,2000.0,2000.0,2000.0
+Tamarindo,2025-08-06,2040.0,Tamarindo2025-08-06,Kilo,Kilo,2000.0,2200.0,2000.0
+Tamarindo,2025-08-08,2000.0,Tamarindo2025-08-08,Kilo,Kilo,2000.0,2000.0,2000.0
+Tamarindo,2025-08-11,2000.0,Tamarindo2025-08-11,Kilo,Kilo,2000.0,2000.0,2000.0
+Tamarindo,2025-08-13,2057.14,Tamarindo2025-08-13,Kilo,Kilo,2000.0,2200.0,2000.0
+Tamarindo,2025-08-15,2000.0,Tamarindo2025-08-15,Kilo,Kilo,2000.0,2000.0,2000.0
+Tamarindo,2025-08-18,2000.0,Tamarindo2025-08-18,Kilo,Kilo,2000.0,2000.0,2000.0
+Tiquisque,2025-08-01,866.67,Tiquisque2025-08-01,Kilo,Kilo,800.0,1000.0,800.0
+Tiquisque,2025-08-04,875.0,Tiquisque2025-08-04,Kilo,Kilo,700.0,1000.0,800.0
+Tiquisque,2025-08-05,1000.0,Tiquisque2025-08-05,Kilo,Kilo,1000.0,1000.0,1000.0
+Tiquisque,2025-08-06,1011.11,Tiquisque2025-08-06,Kilo,Kilo,1000.0,1100.0,1000.0
+Tiquisque,2025-08-07,931.82,Tiquisque2025-08-07,Kilo,Kilo,800.0,1000.0,1000.0
+Tiquisque,2025-08-08,920.0,Tiquisque2025-08-08,Kilo,Kilo,800.0,1000.0,1000.0
+Tiquisque,2025-08-11,907.14,Tiquisque2025-08-11,Kilo,Kilo,800.0,1000.0,1000.0
+Tiquisque,2025-08-12,900.0,Tiquisque2025-08-12,Kilo,Kilo,800.0,1000.0,900.0
+Tiquisque,2025-08-13,937.5,Tiquisque2025-08-13,Kilo,Kilo,800.0,1000.0,1000.0
+Tiquisque,2025-08-14,915.0,Tiquisque2025-08-14,Kilo,Kilo,800.0,1000.0,900.0
+Tiquisque,2025-08-15,915.0,Tiquisque2025-08-15,Kilo,Kilo,800.0,1000.0,900.0
+Tiquisque,2025-08-18,900.0,Tiquisque2025-08-18,Kilo,Kilo,800.0,1000.0,900.0
+Tiquisque,2025-08-19,903.13,Tiquisque2025-08-19,Kilo,Kilo,800.0,1000.0,900.0
+Tomate primera Caja plástica (18,2025-08-01,15250.0,Tomate primera Caja plástica (182025-08-01,kg),kg),15000.0,16000.0,15000.0
+Tomate primera Caja plástica (18,2025-08-04,16636.36,Tomate primera Caja plástica (182025-08-04,kg),kg),16000.0,17000.0,17000.0
+Tomate primera Caja plástica (18,2025-08-05,14727.27,Tomate primera Caja plástica (182025-08-05,kg),kg),14000.0,15000.0,15000.0
+Tomate primera Caja plástica (18,2025-08-06,15000.0,Tomate primera Caja plástica (182025-08-06,kg),kg),15000.0,15000.0,15000.0
+Tomate primera Caja plástica (18,2025-08-07,16538.46,Tomate primera Caja plástica (182025-08-07,kg),kg),16000.0,17000.0,17000.0
+Tomate primera Caja plástica (18,2025-08-08,16200.0,Tomate primera Caja plástica (182025-08-08,kg),kg),16000.0,17000.0,16000.0
+Tomate primera Caja plástica (18,2025-08-11,16384.62,Tomate primera Caja plástica (182025-08-11,kg),kg),16000.0,17000.0,16000.0
+Tomate primera Caja plástica (18,2025-08-12,18421.05,Tomate primera Caja plástica (182025-08-12,kg),kg),18000.0,19000.0,18000.0
+Tomate primera Caja plástica (18,2025-08-13,18250.0,Tomate primera Caja plástica (182025-08-13,kg),kg),18000.0,19000.0,18000.0
+Tomate primera Caja plástica (18,2025-08-14,20000.0,Tomate primera Caja plástica (182025-08-14,kg),kg),19000.0,21000.0,20000.0
+Tomate primera Caja plástica (18,2025-08-15,20133.33,Tomate primera Caja plástica (182025-08-15,kg),kg),20000.0,21000.0,20000.0
+Tomate primera Caja plástica (18,2025-08-18,16400.0,Tomate primera Caja plástica (182025-08-18,kg),kg),16000.0,17000.0,16000.0
+Tomate primera Caja plástica (18,2025-08-19,12625.0,Tomate primera Caja plástica (182025-08-19,kg),kg),12000.0,13000.0,13000.0
+Tomate segunda Caja plástica (18,2025-08-01,14250.0,Tomate segunda Caja plástica (182025-08-01,kg),kg),14000.0,15000.0,14000.0
+Tomate segunda Caja plástica (18,2025-08-04,15636.36,Tomate segunda Caja plástica (182025-08-04,kg),kg),15000.0,16000.0,16000.0
+Tomate segunda Caja plástica (18,2025-08-05,13700.0,Tomate segunda Caja plástica (182025-08-05,kg),kg),13000.0,14000.0,14000.0
+Tomate segunda Caja plástica (18,2025-08-06,13857.14,Tomate segunda Caja plástica (182025-08-06,kg),kg),13000.0,14000.0,14000.0
+Tomate segunda Caja plástica (18,2025-08-07,15416.67,Tomate segunda Caja plástica (182025-08-07,kg),kg),15000.0,16000.0,15000.0
+Tomate segunda Caja plástica (18,2025-08-08,14857.14,Tomate segunda Caja plástica (182025-08-08,kg),kg),14000.0,15000.0,15000.0
+Tomate segunda Caja plástica (18,2025-08-11,15333.33,Tomate segunda Caja plástica (182025-08-11,kg),kg),15000.0,16000.0,15000.0
+Tomate segunda Caja plástica (18,2025-08-12,17368.42,Tomate segunda Caja plástica (182025-08-12,kg),kg),17000.0,18000.0,17000.0
+Tomate segunda Caja plástica (18,2025-08-13,17250.0,Tomate segunda Caja plástica (182025-08-13,kg),kg),17000.0,18000.0,17000.0
+Tomate segunda Caja plástica (18,2025-08-14,19071.43,Tomate segunda Caja plástica (182025-08-14,kg),kg),18000.0,20000.0,19000.0
+Tomate segunda Caja plástica (18,2025-08-15,19142.86,Tomate segunda Caja plástica (182025-08-15,kg),kg),19000.0,20000.0,19000.0
+Tomate segunda Caja plástica (18,2025-08-18,15300.0,Tomate segunda Caja plástica (182025-08-18,kg),kg),15000.0,16000.0,15000.0
+Tomate segunda Caja plástica (18,2025-08-19,11600.0,Tomate segunda Caja plástica (182025-08-19,kg),kg),11000.0,12000.0,12000.0
+Tomate tercera Caja plástica (18,2025-08-01,13250.0,Tomate tercera Caja plástica (182025-08-01,kg),kg),13000.0,14000.0,13000.0
+Tomate tercera Caja plástica (18,2025-08-04,14200.0,Tomate tercera Caja plástica (182025-08-04,kg),kg),14000.0,15000.0,14000.0
+Tomate tercera Caja plástica (18,2025-08-05,12300.0,Tomate tercera Caja plástica (182025-08-05,kg),kg),12000.0,13000.0,12000.0
+Tomate tercera Caja plástica (18,2025-08-06,12285.71,Tomate tercera Caja plástica (182025-08-06,kg),kg),12000.0,13000.0,12000.0
+Tomate tercera Caja plástica (18,2025-08-07,13615.38,Tomate tercera Caja plástica (182025-08-07,kg),kg),13000.0,14000.0,14000.0
+Tomate tercera Caja plástica (18,2025-08-08,12800.0,Tomate tercera Caja plástica (182025-08-08,kg),kg),12000.0,13000.0,13000.0
+Tomate tercera Caja plástica (18,2025-08-11,12769.23,Tomate tercera Caja plástica (182025-08-11,kg),kg),12000.0,14000.0,13000.0
+Tomate tercera Caja plástica (18,2025-08-12,16411.76,Tomate tercera Caja plástica (182025-08-12,kg),kg),16000.0,17000.0,16000.0
+Tomate tercera Caja plástica (18,2025-08-13,16111.11,Tomate tercera Caja plástica (182025-08-13,kg),kg),15000.0,17000.0,16000.0
+Tomate tercera Caja plástica (18,2025-08-14,17333.33,Tomate tercera Caja plástica (182025-08-14,kg),kg),17000.0,18000.0,17000.0
+Tomate tercera Caja plástica (18,2025-08-15,16846.15,Tomate tercera Caja plástica (182025-08-15,kg),kg),16000.0,17000.0,17000.0
+Tomate tercera Caja plástica (18,2025-08-18,12363.64,Tomate tercera Caja plástica (182025-08-18,kg),kg),12000.0,13000.0,12000.0
+Tomate tercera Caja plástica (18,2025-08-19,10166.67,Tomate tercera Caja plástica (182025-08-19,kg),kg),10000.0,11000.0,10000.0
+Vainica,2025-08-01,1331.25,Vainica2025-08-01,Kilo,Kilo,1200.0,1500.0,1300.0
+Vainica,2025-08-04,1762.5,Vainica2025-08-04,Kilo,Kilo,1500.0,2000.0,1800.0
+Vainica,2025-08-05,1891.67,Vainica2025-08-05,Kilo,Kilo,1700.0,2000.0,2000.0
+Vainica,2025-08-06,1911.11,Vainica2025-08-06,Kilo,Kilo,1700.0,2000.0,2000.0
+Vainica,2025-08-07,1411.11,Vainica2025-08-07,Kilo,Kilo,1200.0,1600.0,1500.0
+Vainica,2025-08-08,1262.5,Vainica2025-08-08,Kilo,Kilo,1200.0,1400.0,1300.0
+Vainica,2025-08-11,1435.71,Vainica2025-08-11,Kilo,Kilo,1300.0,1600.0,1500.0
+Vainica,2025-08-12,1358.33,Vainica2025-08-12,Kilo,Kilo,1200.0,1500.0,1300.0
+Vainica,2025-08-13,1327.78,Vainica2025-08-13,Kilo,Kilo,1200.0,1500.0,1300.0
+Vainica,2025-08-14,1347.37,Vainica2025-08-14,Kilo,Kilo,1200.0,1600.0,1300.0
+Vainica,2025-08-15,1380.0,Vainica2025-08-15,Kilo,Kilo,1200.0,1500.0,1500.0
+Vainica,2025-08-18,1370.59,Vainica2025-08-18,Kilo,Kilo,1300.0,1500.0,1300.0
+Vainica,2025-08-19,1282.86,Vainica2025-08-19,Kilo,Kilo,1200.0,1500.0,1200.0
+Yuca parafinada,2025-08-01,706.25,Yuca parafinada2025-08-01,Kilo,Kilo,700.0,750.0,700.0
+Yuca parafinada,2025-08-04,740.0,Yuca parafinada2025-08-04,Kilo,Kilo,700.0,800.0,700.0
+Yuca parafinada,2025-08-05,816.67,Yuca parafinada2025-08-05,Kilo,Kilo,800.0,900.0,800.0
+Yuca parafinada,2025-08-06,820.0,Yuca parafinada2025-08-06,Kilo,Kilo,800.0,900.0,800.0
+Yuca parafinada,2025-08-07,850.0,Yuca parafinada2025-08-07,Kilo,Kilo,800.0,1000.0,800.0
+Yuca parafinada,2025-08-08,844.44,Yuca parafinada2025-08-08,Kilo,Kilo,800.0,900.0,800.0
+Yuca parafinada,2025-08-11,795.83,Yuca parafinada2025-08-11,Kilo,Kilo,750.0,800.0,800.0
+Yuca parafinada,2025-08-12,844.44,Yuca parafinada2025-08-12,Kilo,Kilo,800.0,900.0,800.0
+Yuca parafinada,2025-08-13,787.5,Yuca parafinada2025-08-13,Kilo,Kilo,750.0,800.0,800.0
+Yuca parafinada,2025-08-14,775.0,Yuca parafinada2025-08-14,Kilo,Kilo,700.0,800.0,800.0
+Yuca parafinada,2025-08-15,753.85,Yuca parafinada2025-08-15,Kilo,Kilo,700.0,800.0,800.0
+Yuca parafinada,2025-08-18,700.0,Yuca parafinada2025-08-18,Kilo,Kilo,650.0,750.0,700.0
+Yuca parafinada,2025-08-19,653.57,Yuca parafinada2025-08-19,Kilo,Kilo,600.0,700.0,700.0
+Yuplón,2025-08-04,150.0,Yuplón2025-08-04,Unidad,Unidad,150.0,150.0,150.0
+Yuplón,2025-08-06,150.0,Yuplón2025-08-06,Unidad,Unidad,150.0,150.0,150.0
+Yuplón,2025-08-08,120.0,Yuplón2025-08-08,Unidad,Unidad,100.0,150.0,100.0
+Yuplón,2025-08-11,144.0,Yuplón2025-08-11,Unidad,Unidad,120.0,150.0,150.0
+Yuplón,2025-08-13,131.43,Yuplón2025-08-13,Unidad,Unidad,100.0,150.0,150.0
+Yuplón,2025-08-15,140.0,Yuplón2025-08-15,Unidad,Unidad,120.0,150.0,150.0
+Yuplón,2025-08-18,142.5,Yuplón2025-08-18,Unidad,Unidad,120.0,150.0,150.0
+Zanahoria primera Malla (45,2025-08-01,16096.77,Zanahoria primera Malla (452025-08-01,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-04,19619.05,Zanahoria primera Malla (452025-08-04,kg),kg),18000.0,22000.0,20000.0
+Zanahoria primera Malla (45,2025-08-05,18200.0,Zanahoria primera Malla (452025-08-05,kg),kg),17000.0,20000.0,18000.0
+Zanahoria primera Malla (45,2025-08-06,18312.5,Zanahoria primera Malla (452025-08-06,kg),kg),16000.0,20000.0,18000.0
+Zanahoria primera Malla (45,2025-08-07,17277.78,Zanahoria primera Malla (452025-08-07,kg),kg),16000.0,18000.0,18000.0
+Zanahoria primera Malla (45,2025-08-08,17074.07,Zanahoria primera Malla (452025-08-08,kg),kg),16000.0,18000.0,17000.0
+Zanahoria primera Malla (45,2025-08-11,16333.33,Zanahoria primera Malla (452025-08-11,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-12,16333.33,Zanahoria primera Malla (452025-08-12,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-13,16272.73,Zanahoria primera Malla (452025-08-13,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-14,16035.71,Zanahoria primera Malla (452025-08-14,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-15,16214.29,Zanahoria primera Malla (452025-08-15,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-18,16047.62,Zanahoria primera Malla (452025-08-18,kg),kg),15000.0,18000.0,16000.0
+Zanahoria primera Malla (45,2025-08-19,16290.32,Zanahoria primera Malla (452025-08-19,kg),kg),15000.0,18000.0,16000.0
+Zuquini,2025-08-06,233.33,Zuquini2025-08-06,Unidad,Unidad,200.0,250.0,250.0
+Zuquini,2025-08-08,295.83,Zuquini2025-08-08,Unidad,Unidad,250.0,350.0,300.0
+Zuquini,2025-08-11,271.43,Zuquini2025-08-11,Unidad,Unidad,250.0,300.0,250.0
+Zuquini,2025-08-13,294.44,Zuquini2025-08-13,Unidad,Unidad,250.0,350.0,300.0
+Zuquini,2025-08-15,300.0,Zuquini2025-08-15,Unidad,Unidad,250.0,350.0,300.0
+Zuquini,2025-08-18,268.75,Zuquini2025-08-18,Unidad,Unidad,250.0,300.0,250.0
+Ñampí,2025-08-01,1000.0,Ñampí2025-08-01,Kilo,Kilo,1000.0,1000.0,1000.0
+Ñampí,2025-08-04,1033.33,Ñampí2025-08-04,Kilo,Kilo,800.0,1200.0,1000.0
+Ñampí,2025-08-05,1000.0,Ñampí2025-08-05,Kilo,Kilo,900.0,1100.0,1000.0
+Ñampí,2025-08-06,972.73,Ñampí2025-08-06,Kilo,Kilo,900.0,1000.0,1000.0
+Ñampí,2025-08-07,958.33,Ñampí2025-08-07,Kilo,Kilo,800.0,1200.0,1000.0
+Ñampí,2025-08-08,1025.0,Ñampí2025-08-08,Kilo,Kilo,1000.0,1200.0,1000.0
+Ñampí,2025-08-11,972.73,Ñampí2025-08-11,Kilo,Kilo,800.0,1200.0,1000.0
+Ñampí,2025-08-12,966.67,Ñampí2025-08-12,Kilo,Kilo,900.0,1000.0,1000.0
+Ñampí,2025-08-13,900.0,Ñampí2025-08-13,Kilo,Kilo,800.0,1000.0,900.0
+Ñampí,2025-08-14,958.33,Ñampí2025-08-14,Kilo,Kilo,800.0,1200.0,1000.0
+Ñampí,2025-08-15,941.67,Ñampí2025-08-15,Kilo,Kilo,800.0,1200.0,1000.0
+Ñampí,2025-08-18,987.5,Ñampí2025-08-18,Kilo,Kilo,900.0,1200.0,900.0
+Ñampí,2025-08-19,962.5,Ñampí2025-08-19,Kilo,Kilo,850.0,1000.0,1000.0
+
+
